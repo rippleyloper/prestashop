@@ -1,0 +1,66 @@
+[2020-09-17 00:20:53] [INFO ] INFO: initTransaction - amount: 12980, sessionId: 5f62d615674af, buyOrder: 33265, txDate: 17-09-2020, txTime: 00:20:53
+[2020-09-17 00:20:53] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e4e6152d3f2ace84388a88cf8410b506df74d508367acf6f18a2c406288f4628","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 00:22:29] [INFO ] INFO: getTransactionResult - tokenWs: e4e6152d3f2ace84388a88cf8410b506df74d508367acf6f18a2c406288f4628
+[2020-09-17 00:31:34] [INFO ] INFO: initTransaction - amount: 40110, sessionId: 5f62d8968f1d8, buyOrder: 33034, txDate: 17-09-2020, txTime: 00:31:34
+[2020-09-17 00:31:34] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e067e497fc0485d358810e5c32283aba9eeac5dadbdcc2338b2e1328cb694932","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 09:55:50] [INFO ] INFO: initTransaction - amount: 91452, sessionId: 5f635cd6508d3, buyOrder: 33272, txDate: 17-09-2020, txTime: 09:55:50
+[2020-09-17 09:56:50] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 09:56:50] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 91452, sessionId: 5f635cd6508d3, buyOrder: 33272"}
+[2020-09-17 09:57:04] [INFO ] INFO: initTransaction - amount: 0, sessionId: 5f635d2080390, buyOrder: , txDate: 17-09-2020, txTime: 09:57:04
+[2020-09-17 09:58:04] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 09:58:04] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 0, sessionId: 5f635d2080390, buyOrder: "}
+[2020-09-17 09:58:45] [INFO ] INFO: initTransaction - amount: 91452, sessionId: 5f635d853eba6, buyOrder: 33274, txDate: 17-09-2020, txTime: 09:58:45
+[2020-09-17 09:58:52] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e2f99350a869f8a3aeb8aaf28add737a12bb0c7b3f233c4f4229d061ed2843b4","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 10:39:27] [INFO ] INFO: initTransaction - amount: 45980, sessionId: 5f63670fe4d76, buyOrder: 33283, txDate: 17-09-2020, txTime: 10:39:27
+[2020-09-17 10:39:28] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e52a666f0fda532377602cafc2eb958fe6262fae3ab3bdcd93d57695796938ec","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 10:40:04] [INFO ] INFO: getTransactionResult - tokenWs: e52a666f0fda532377602cafc2eb958fe6262fae3ab3bdcd93d57695796938ec
+[2020-09-17 10:56:27] [INFO ] INFO: initTransaction - amount: 19450, sessionId: 5f636b0b34ee9, buyOrder: 33273, txDate: 17-09-2020, txTime: 10:56:27
+[2020-09-17 10:56:27] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"edc67aa582c1bd9f3805394b255911effceea2a3d70179e2c8d2c64ae16e5dc1","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 11:12:01] [INFO ] INFO: initTransaction - amount: 19450, sessionId: 5f636eb194632, buyOrder: 33273, txDate: 17-09-2020, txTime: 11:12:01
+[2020-09-17 11:12:01] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e79e1d2b84c78a068ebef701b0adf9976b86cc43c90c554a6b0079ac7d2e3375","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 11:12:57] [INFO ] INFO: getTransactionResult - tokenWs: e79e1d2b84c78a068ebef701b0adf9976b86cc43c90c554a6b0079ac7d2e3375
+[2020-09-17 11:39:58] [INFO ] INFO: initTransaction - amount: 36945, sessionId: 5f63753eb5bb5, buyOrder: 33285, txDate: 17-09-2020, txTime: 11:39:58
+[2020-09-17 11:40:29] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ee1d13b05d60f7428b1e2f83d02b2113915fedfc5b9d8bffae8142e90a6adb4c","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 11:41:20] [INFO ] INFO: getTransactionResult - tokenWs: ee1d13b05d60f7428b1e2f83d02b2113915fedfc5b9d8bffae8142e90a6adb4c
+[2020-09-17 11:41:40] [INFO ] INFO: initTransaction - amount: 23430, sessionId: 5f6375a438955, buyOrder: 33288, txDate: 17-09-2020, txTime: 11:41:40
+[2020-09-17 11:41:40] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e3e289b6d7d4c856319c4f59832a861f04cc0fa817c31a8ec6cc35ed3964bb36","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 11:43:32] [INFO ] INFO: getTransactionResult - tokenWs: e3e289b6d7d4c856319c4f59832a861f04cc0fa817c31a8ec6cc35ed3964bb36
+[2020-09-17 11:56:08] [INFO ] INFO: initTransaction - amount: 139333, sessionId: 5f63790810448, buyOrder: 33225, txDate: 17-09-2020, txTime: 11:56:08
+[2020-09-17 11:57:08] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 11:57:08] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 139333, sessionId: 5f63790810448, buyOrder: 33225"}
+[2020-09-17 12:43:26] [INFO ] INFO: initTransaction - amount: 34990, sessionId: 5f63841e2f494, buyOrder: 33291, txDate: 17-09-2020, txTime: 12:43:26
+[2020-09-17 12:44:26] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 12:44:26] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 34990, sessionId: 5f63841e2f494, buyOrder: 33291"}
+[2020-09-17 12:48:30] [INFO ] INFO: initTransaction - amount: 34275, sessionId: 5f63854ec64cc, buyOrder: 32784, txDate: 17-09-2020, txTime: 12:48:30
+[2020-09-17 12:49:30] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 12:49:30] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 34275, sessionId: 5f63854ec64cc, buyOrder: 32784"}
+[2020-09-17 13:08:54] [INFO ] INFO: initTransaction - amount: 34990, sessionId: 5f638a16839ef, buyOrder: 33292, txDate: 17-09-2020, txTime: 13:08:54
+[2020-09-17 13:09:54] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 13:09:54] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 34990, sessionId: 5f638a16839ef, buyOrder: 33292"}
+[2020-09-17 13:56:01] [INFO ] INFO: initTransaction - amount: 59915, sessionId: 5f6395218d9d4, buyOrder: 33299, txDate: 17-09-2020, txTime: 13:56:01
+[2020-09-17 13:56:01] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e939ac5b5ea45b5327e9b41918b23b92f51b6db3fd8c6a03a44bf6b498e1d853","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 13:57:54] [INFO ] INFO: getTransactionResult - tokenWs: e939ac5b5ea45b5327e9b41918b23b92f51b6db3fd8c6a03a44bf6b498e1d853
+[2020-09-17 15:23:07] [INFO ] INFO: initTransaction - amount: 12985, sessionId: 5f63a98b71e27, buyOrder: 32990, txDate: 17-09-2020, txTime: 15:23:07
+[2020-09-17 15:24:07] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 15:24:07] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 12985, sessionId: 5f63a98b71e27, buyOrder: 32990"}
+[2020-09-17 15:27:06] [INFO ] INFO: initTransaction - amount: 12985, sessionId: 5f63aa7aba723, buyOrder: 33307, txDate: 17-09-2020, txTime: 15:27:06
+[2020-09-17 15:28:06] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":"Could not connect to host"}
+[2020-09-17 15:28:06] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 12985, sessionId: 5f63aa7aba723, buyOrder: 33307"}
+[2020-09-17 15:36:54] [INFO ] INFO: initTransaction - amount: 15983, sessionId: 5f63acc6ac6d5, buyOrder: 33308, txDate: 17-09-2020, txTime: 15:36:54
+[2020-09-17 15:36:55] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e130fbbe8efca3bf1e8f2b45cd912d60bd489881fa93bdc6f42d989eb221ee11","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 15:38:11] [INFO ] INFO: getTransactionResult - tokenWs: e130fbbe8efca3bf1e8f2b45cd912d60bd489881fa93bdc6f42d989eb221ee11
+[2020-09-17 17:10:12] [INFO ] INFO: initTransaction - amount: 59350, sessionId: 5f63c2a41f170, buyOrder: 33139, txDate: 17-09-2020, txTime: 17:10:12
+[2020-09-17 17:10:12] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e87d2e8eaf4b57eb32fdc59324a22001cb3e82c8a994a6e711c0fecc1a581427","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 17:11:10] [INFO ] INFO: getTransactionResult - tokenWs: e87d2e8eaf4b57eb32fdc59324a22001cb3e82c8a994a6e711c0fecc1a581427
+[2020-09-17 18:10:22] [INFO ] INFO: initTransaction - amount: 21950, sessionId: 5f63d0be6a881, buyOrder: 29510, txDate: 17-09-2020, txTime: 18:10:22
+[2020-09-17 18:10:22] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e6d2bd2580ebe1ab488f48b319dfef7ea7ac1e54e934abd494e1cdbc02d56529","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 18:23:51] [INFO ] INFO: initTransaction - amount: 43610, sessionId: 5f63d3e744e11, buyOrder: 33034, txDate: 17-09-2020, txTime: 18:23:51
+[2020-09-17 18:23:51] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e4deeb4b070e82c84b5277156525799ead35e7ce7155b0c4c7e5a1a8837d180f","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 21:16:44] [INFO ] INFO: initTransaction - amount: 42900, sessionId: 5f63fc6c2c864, buyOrder: 30056, txDate: 17-09-2020, txTime: 21:16:44
+[2020-09-17 21:16:44] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ef407b46b928523db21703b8916a2089f3eebc809a63e88a2c3d33bde881eba6","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 22:28:00] [INFO ] INFO: initTransaction - amount: 17840, sessionId: 5f640d2009810, buyOrder: 33329, txDate: 17-09-2020, txTime: 22:28:00
+[2020-09-17 22:28:00] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ef67bd7316b6698ff951b747596e94f281abd7e7845826c3e5976916b04324f1","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 22:30:26] [INFO ] INFO: getTransactionResult - tokenWs: ef67bd7316b6698ff951b747596e94f281abd7e7845826c3e5976916b04324f1
+[2020-09-17 23:53:13] [INFO ] INFO: initTransaction - amount: 13270, sessionId: 5f642119b981e, buyOrder: 33318, txDate: 17-09-2020, txTime: 23:53:13
+[2020-09-17 23:53:13] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e3666e1beb7af0ccb0dab35d858fd5ff9e96104a17cd6ae63bbcf5378b98f5f9","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-09-17 23:54:26] [INFO ] INFO: getTransactionResult - tokenWs: e3666e1beb7af0ccb0dab35d858fd5ff9e96104a17cd6ae63bbcf5378b98f5f9

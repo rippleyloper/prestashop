@@ -1,0 +1,527 @@
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+			<o:AllowPNG/>
+			<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+<![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width" initial-scale="1.0" user-scalable="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="date=no" />
+    <meta name="format-detection" content="address=no" />
+    <meta name="format-detection" content="email=no" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title></title>
+
+    <style type="text/css">
+        .ReadMsgBody {
+            width: 100%;
+        }
+        
+        .ExternalClass {
+            width: 100%;
+        }
+        
+        .ExternalClass * {
+            line-height: 100%;
+        }
+        
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass td,
+        .ExternalClass div,
+        .ExternalClass span,
+        .ExternalClass font {
+            line-height: 100%;
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body,
+        table,
+        td,
+        p,
+        a,
+        li {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        
+        table td {
+            border-collapse: collapse;
+        }
+        
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+        
+        p,
+        a,
+        li,
+        td,
+        blockquote {
+            mso-line-height-rule: exactly;
+        }
+        
+        p,
+        a,
+        li,
+        td,
+        body,
+        table,
+        blockquote {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        
+        img,
+        a img {
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+        
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+        
+        a[href^=tel],
+        a[href^=sms] {
+            color: inherit;
+            cursor: default;
+            text-decoration: none;
+        }
+        
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        
+        .velsofContentTable.velsofFooterTable a {
+            color: #95A5A6;
+        }
+        
+        .velsofEmailContainer {
+            max-width: 640px !important;
+        }
+        
+        .velsofContentContainer p a,
+        ol li a,
+        ul li a {
+            word-break: break-word;
+        }
+        
+        @-moz-document url-prefix() {
+            .velsofContentContainer p a,
+            ol li a,
+            ul li a {
+                word-break: break-all;
+            }
+        }
+        
+        @media only screen and (min-width:768px) {
+            .velsofEmailContainer {
+                width: 640px !important;
+            }
+        }
+        
+        @media only screen and (max-width: 640px) {
+            .velsofTemplateContainer {
+                padding: 10px 10px 0 10px;
+            }
+            .velsofContentTable {
+                width: 100% !important;
+                min-width: 200px !important;
+            }
+            /* -- */
+            .velsoflContentBlock {
+                float: none !important;
+                width: 100% !important;
+            }
+            /* -- */
+            .velsofContentOuter {
+                padding-bottom: 0px !important;
+                padding-left: 25px !important;
+                padding-right: 25px !important;
+                padding-top: 25px !important;
+            }
+            /* -- */
+            .velsoflBottomContentOuter {
+                padding-bottom: 25px !important;
+            }
+            .velsofLeftRightContentOuter {
+                padding-left: 5px !important;
+                padding-right: 5px !important;
+            }
+            .velsofContentContainerOuter {
+                padding-left: 0px !important;
+                padding-right: 0px !important;
+            }
+            /* -- */
+            .velsofContentContainer {
+                padding-left: 25px !important;
+                padding-right: 25px !important;
+            }
+            /* -- */
+            .velsofContentButton a,
+            .velsofContentButton span {
+                width: auto !important;
+            }
+            /* -- */
+            .velsofContentImage img {
+                height: auto !important;
+                width: 100% !important;
+            }
+            /* -- */
+            .velsofContentRSS.rss_img3 img {
+                height: auto !important;
+                width: 100% !important;
+            }
+            /* -- */
+            .velsofContentImage {
+                height: 100% !important;
+                width: auto !important;
+            }
+            .velsofContentLogo img {
+                height: auto !important;
+                width: 100% !important;
+            }
+            /* -- */
+            .velsofContentbgImage {
+                background-size: cover !important;
+            }
+            /* -- */
+            .velsofContentContainer h1 {
+                font-size: 24px !important;
+                line-height: 125% !important;
+                margin-bottom: 0px !important;
+            }
+            /* -- */
+            .velsofContentContainer h2 {
+                font-size: 18px !important;
+                line-height: 125% !important;
+                margin-bottom: 0px !important;
+            }
+            /* -- */
+            .velsofContentContainer h3 {
+                font-size: 16px !important;
+                line-height: 125% !important;
+                margin-bottom: 0px !important;
+            }
+            /* -- */
+            .velsofContentContainer p,
+            .velsofContentContainer .velsofContentRSS {
+                font-size: 16px !important;
+                line-height: 150% !important;
+            }
+            /* -- */
+            .velsofmobileHide {
+                display: none !important;
+            }
+            /* -- */
+            .velsofalignCenter {
+                height: auto !important;
+                text-align: center !important
+            }
+            /* -- */
+            .velsofmarginBottom {
+                margin-bottom: 25px !important;
+            }
+            /* -- */
+            .velsofContentHeight {
+                height: auto !important;
+            }
+            .velsoflContentGap {
+                height: 25px !important;
+            }
+            .velsofDisplayInline {
+                display: inline-block !important;
+                float: none !important;
+            }
+            body {
+                margin: 0px !important;
+                padding: 0px !important;
+            }
+            body,
+            table,
+            td,
+            p,
+            a,
+            li,
+            blockquote {
+                -webkit-text-size-adjust: none !important;
+            }
+        }
+        
+        @media only screen and (max-width: 540px) {
+            .velsofContentRSS.rss_img2 img {
+                height: auto !important;
+                width: 100% !important;
+            }
+        }
+        
+        @media only screen and (max-width: 440px) {
+            .velsofContentRSS.rss_img1 img {
+                height: auto !important;
+                width: 100% !important;
+            }
+        }
+        
+        @media only screen and (max-width: 320px) {
+            .velsofContentRSS.rss_img0 img {
+                height: auto !important;
+                width: 100% !important;
+            }
+        }
+    </style>
+
+</head>
+
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" dir="ltr" style="padding: 0; margin: 0; -webkit-font-smoothing:antialiased; -webkit-text-size-adjust:none; background: #ededed;" bgcolor="#ededed">
+
+    <div id="fb-root" style="display:none"></div>
+
+    <!--[if !mso]><!-- -->
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ededed" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+        <tr>
+            <td class="velsofTemplateContainer" align="center">
+                <table align="center" border="0" class="velsofEmailContainer" cellpadding="10" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tr style="background:white;">
+                        <td align="center">
+                            <!--<![endif]-->
+
+                            <!-- Content starts here -->
+                            <table align="center" width="640" class="velsofContentTable" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="min-width: 640px; width: 640px;">
+                                <tr>
+                                    <td class="velsofContentTable">
+                                        <table width="640" class="velsofContentTable" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center" style="width: 640px;border-top:3px solid #ededed;">
+                                            <tr>
+                                                <td class="velsofContentImage" align="center">
+                                                    <a style="border: none; display: block;color:#337ff1;padding:15px 0;    border-bottom: 4px solid #333333;" title="{shop_name}" href="{shop_url_link}"> <img border="0" src="{shop_logo}" alt="{shop_name}" style="display: block;margin:0 auto;max-width:153px;" /> </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                                   <table align="center" width="640" class="velsofContentTable" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="min-width: 640px; width: 640px;">
+<tbody>
+<tr>
+<td class="velsofContentTable">
+<table width="640" class="velsofContentTable" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center" style="width: 640px;">
+<tbody>
+<tr>
+<td class="velsofContentTable">
+<table width="610" class="velsofContentTable" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center" style="width: 610px;">
+<tbody>
+<tr>
+<td class="velsofContentImage" align="center" style="padding: 10px; padding-top: 5px; background: #ffffff;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="velsofContentTable">
+<table width="610" class="velsofContentTable" cellspacing="0" cellpadding="0" border="0" bgcolor="#f1f7fb" align="center" style="width: 610px;">
+<tbody>
+<tr>
+<td class="velsofContentImage" align="center" style="padding: 20px; padding-top: 45px; background: #f1f7fb;"><a style="border: none; display: block;"> <img src="{voucher_src}" border="0" alt="" width="200" height="111" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" bgcolor="#ffffff" class="velsofContentTable" cellspacing="0" cellpadding="0" style="background: #ffffff; min-width: 640px; width: 640px;" width="640" id="ml-block-63331615">
+<tbody>
+<tr>
+<td class="velsofContentTable">
+<table width="640" class="velsofContentTable" bgcolor="#ffffff" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #ffffff; width: 640px;">
+<tbody>
+<tr>
+<td class="velsofContentTable">
+<table width="610" class="velsofContentTable" cellspacing="0" cellpadding="0" border="0" align="center" style="width: 610px; background: #f1f7fb;" bgcolor="#f1f7fb">
+<tbody>
+<tr>
+<td class="velsofContentTable">
+<table width="540" class="velsofContentTable" cellspacing="0" cellpadding="0" border="0" align="center" style="width: 540px; background: #f1f7fb;" bgcolor="#f1f7fb">
+<tbody>
+<tr>
+<td class="velsofContentButton" align="center" style="padding: 2px 0px 11px 0px;"><span style="color: #d23c69; text-decoration: none; font-size: 26px; font-family: 'Open Sans',Arial,Helvetica,sans-serif; line-height: 27px; font-weight: bold;">CONGRATULATIONS!!!</span></td>
+</tr>
+<tr>
+<td class="velsofContentButton" align="center" style="padding: 12px 0px 41px 0px;"><span style="color: #000000; text-decoration: none; font-size: 16px; font-family: 'Open Sans',Arial,Helvetica,sans-serif; line-height: 27px; font-weight: bold;">You just earned a discount of <span style="color: #51c50b; font-size: 20px;">{discount_value}</span> on your next purchase!</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" bgcolor="#ffffff" class="velsofContentTable" cellspacing="0" cellpadding="0" style="background: #ffffff; min-width: 640px; width: 640px;" width="640" id="ml-block-63331615">
+<tbody>
+<tr>
+<td>
+<table width="640" class="velsofContentTable" bgcolor="#ffffff" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #ffffff; width: 640px;">
+<tbody>
+<tr>
+<td>
+<table width="610" class="velsofContentTable" bgcolor="#f1f7fb" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #f1f7fb; width: 610px;">
+<tbody>
+<tr>
+<td width="540" class="velsofContentContainer" cellspacing="0" cellpadding="0" border="0" style="padding: 0px 20px 0px 20px;">
+<table width="540" class="velsoflContentBlock" cellspacing="0" cellpadding="0" border="0" align="left" style="width: 540px;">
+<tbody>
+<tr>
+<td class="velsofContentButton" align="center" style="padding: 20px 0px 11px 0px;">
+<h2 style="line-height: 26px; text-decoration: none; font-weight: bold; margin: 0px 0px 10px 0px; font-family: Helvetica; font-size: 20px; color: #484848; text-align: left;">Hi{firstname}{lastname},</h2>
+</td>
+</tr>
+<tr>
+<td class="velsofContentButton" align="center" style="padding: 2px 0px 11px 0px;"><span style="background-color: #f1f7fb; color: #272727; font-family: Helvetica; font-size: 14px; line-height: 27px; display: block; text-align: left; text-decoration: none; margin: 0px 0px; padding: 0px 0px;">Congratulations and Thank You for registering with us. To help you celebrate, there is a coupon you can put towards your next purchase with us.</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" bgcolor="#f1f7fb" class="velsofContentTable" cellspacing="0" cellpadding="0" style="background: #f1f7fb; min-width: 640px; width: 640px;" width="640" id="ml-block-63331613">
+<tbody>
+<tr>
+<td>
+<table width="640" class="velsofContentTable" bgcolor="#ffffff" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #ffffff; width: 640px;">
+<tbody>
+<tr>
+<td>
+<table width="610" class="velsofContentTable" bgcolor="#f1f7fb" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #f1f7fb; width: 610px;">
+<tbody>
+<tr>
+<td align="left" class="velsofContentContainer" style="padding: 15px 50px 5px 50px; font-family: Helvetica; font-size: 14px; color: #7f8c8d; line-height: 23px;">
+<div class="text">{cart_content}</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" bgcolor="#ffffff" class="velsofContentTable" cellspacing="0" cellpadding="0" style="background: #ffffff; min-width: 640px; width: 640px;" width="640" id="ml-block-63331613">
+<tbody>
+<tr>
+<td>
+<table width="640" class="velsofContentTable" bgcolor="#ffffff" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #ffffff; width: 640px;">
+<tbody>
+<tr>
+<td>
+<table width="610" class="velsofContentTable" bgcolor="#f1f7fb" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #f1f7fb; width: 610px;">
+<tbody>
+<tr>
+<td class="velsofContentContainer" align="center" style="padding: 35px 50px 15px 50px;"><span style="margin: 0px 0px 10px 0px; line-height: 20px; text-align: center; font-size: 20px; font-weight: normal; font-family: Helvetica; color: #7f8c8d;"><strong>Discount Code:</strong></span></td>
+</tr>
+<tr>
+<td class="velsofContentContainer" align="center" style="padding: 15px 50px 70px 50px;"><span style="margin: 0px 0px 10px 0px; line-height: 20px; text-align: center; font-size: 28px; font-weight: normal; font-family: Helvetica; color: #e41313; border: 2px dashed #e41313; padding: 10px 30px;">{discount_code}</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" bgcolor="#ffffff" class="velsofContentTable" cellspacing="0" cellpadding="0" style="background: #ffffff; min-width: 640px; width: 640px;" width="640" id="ml-block-63331615">
+<tbody>
+<tr>
+<td>
+<table width="640" class="velsofContentTable" bgcolor="#ffffff" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #ffffff; width: 640px;">
+<tbody>
+<tr>
+<td>
+<table width="610" class="velsofContentTable" bgcolor="#e7eff5" cellspacing="0" cellpadding="0" border="0" align="center" style="background: #e7eff5; width: 610px;">
+<tbody>
+<tr>
+<td width="640" class="velsofContentContainer" cellspacing="0" cellpadding="0" border="0" style="padding: 0px 0px 0px 50px;">
+<table width="540" class="velsoflContentBlock" cellspacing="0" cellpadding="0" border="0" align="center" style="width: 540px;">
+<tbody>
+<tr>
+<td class="velsofContentButton" align="left" style="padding: 22px 0px 22px 0px;"><span style="background-color: #e7eff5; color: #7f8c8d; font-family: Helvetica; font-size: 14px; line-height: 29px; display: block; text-align: left; text-decoration: none; margin: 0px 0px; padding: 0px 0px;">Best regards <br />{shop_name}<br />{shop_url} </span></td>
+</tr>
+<tr>
+<td class="velsofContentButton" align="center" style="padding: 2px 0px 11px 0px;"><span style="background-color: #e7eff5; color: #bd355e; font-family: Helvetica; font-size: 24px; line-height: 20px; display: block; text-align: center; text-decoration: none; margin: 0px 0px; border-top: 1px solid #ccc; padding: 15px 0px 10px;"> Happy Shopping! </span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+                            
+
+                            <!-- Content ends here -->
+
+                            <!--[if !mso]><!-- -->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--<![endif]-->
+
+</body>
+
+</html>
+
+        

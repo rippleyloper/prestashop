@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Cómo definir la misión, visión y valores de tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/que-es-mision-vision-valores</link>
+    <description>Conocer y gestionar los conceptos de misión, visión y valores de tu eCommerce es fundamental para trazar bien tu estrategia de negocio. </description>
+     <pubDate>Thu, 31 Dec 2020 12:00:00 +0100</pubDate>
+ <dc:creator>Marisol García</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-mision-vision-valores</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Z pattern y cómo emplear este diseño en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/z-pattern</link>
+    <description>¿Quién será el protagonista del post de hoy? ¿El Zorro y su característica Z?</description>
+     <pubDate>Wed, 30 Dec 2020 17:00:00 +0100</pubDate>
+ <dc:creator>Marisa Casasola</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/z-pattern</guid>
+  </item>
+  <item>
+    <title>Soytuhogar, ¡un eCommerce fuera de lo corriente!</title>
+    <link>https://www.prestashop.com/es/blog/soytuhogar</link>
+    <description>Desde PrestaShop estamos identificando proyectos que consideramos casos de éxito basados en muchos y variados factores como los niveles de facturación alcanzados, la escalabilidad, la internacional</description>
+     <pubDate>Wed, 30 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/soytuhogar</guid>
+  </item>
+  <item>
+    <title>7 formas de gestionar el envío gratuito en tu eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/gestionar-envio-gratuito-ecommerce</link>
+    <description>Uno de los aspectos decisivos en la relación entre cliente y eCommerce es el gasto de envío.</description>
+     <pubDate>Tue, 29 Dec 2020 15:00:00 +0100</pubDate>
+ <dc:creator>Marisa Casasola</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/gestionar-envio-gratuito-ecommerce</guid>
+  </item>
+  <item>
+    <title>Comercio La Orotava, ¡un marketplace de negocio local!</title>
+    <link>https://www.prestashop.com/es/blog/comercio-la-orotava</link>
+    <description>Desde PrestaShop estamos identificando proyectos que consideramos casos de éxito basados en muchos y variados factores como los niveles de facturación alcanzados, la escalabilidad, la internacional</description>
+     <pubDate>Tue, 29 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/comercio-la-orotava</guid>
+  </item>
+  <item>
+    <title>La tienda del apicultor, ¡un eCommerce con un dulce crecimiento!</title>
+    <link>https://www.prestashop.com/es/blog/la-tienda-del-apicultor</link>
+    <description>Desde PrestaShop estamos identificando proyectos que consideramos casos de éxito basados en muchos y variados factores como los niveles de facturación alcanzados, la escalabilidad, la internacional</description>
+     <pubDate>Mon, 28 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/la-tienda-del-apicultor</guid>
+  </item>
+  <item>
+    <title>Global Freaks, ¡un eCommerce de manga y anime muy potente!</title>
+    <link>https://www.prestashop.com/es/blog/global-freaks</link>
+    <description>Desde PrestaShop estamos identificando proyectos que consideramos casos de éxito basados en muchos y variados factores como los niveles de facturación alcanzados, la escalabilidad, la internacional</description>
+     <pubDate>Thu, 24 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/global-freaks</guid>
+  </item>
+  <item>
+    <title>Lámparas, ¡un eCommerce con mucha luz!</title>
+    <link>https://www.prestashop.com/es/blog/lamparas</link>
+    <description>En PrestaShop creemos que es muy enriquecedor identificar proyectos que han tenido éxito y analizarlos.</description>
+     <pubDate>Wed, 23 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/lamparas</guid>
+  </item>
+  <item>
+    <title>Alpargatus, ¡un eCommerce que avanza con paso firme!</title>
+    <link>https://www.prestashop.com/es/blog/alpargatus</link>
+    <description>En PrestaShop creemos que es interesante analizar y aprender de proyectos que consideramos casos de éxito,  teniendo en cuenta muchos y variados factores como los niveles de facturación alcanzados,</description>
+     <pubDate>Tue, 22 Dec 2020 09:00:00 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/alpargatus</guid>
+  </item>
+  <item>
+    <title>Novedades PrestaShop 1.7.7</title>
+    <link>https://www.prestashop.com/es/blog/novedades-prestashop-1-7-7</link>
+    <description>El 2 de diciembre se lanzó la versión 1.7.7.0 de PrestaShop, muy esperada por muchos de nosotros por todas las novedades que trae.</description>
+     <pubDate>Mon, 21 Dec 2020 09:06:00 +0100</pubDate>
+ <dc:creator>Alejandro Ramos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/novedades-prestashop-1-7-7</guid>
+  </item>
+  </channel>
+</rss>

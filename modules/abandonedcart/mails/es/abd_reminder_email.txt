@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+                "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+                <html>
+                    <head>
+                        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0,
+                        maximum-scale=1.0, user-scalable=0" />
+                        <title>Message from {shop_name}</title>
+                    </head>
+                    <body style="width:100%;padding:0%;margin:5px !important;-webkit-text-size-adjust:none;
+                        font-family:Open-sans, sans-serif;color:#555454;font-size:13px;line-height:18px;margin:auto">
+                        <table class="table table-mail" style="background:white;
+                            -moz-box-shadow:0 0 5px #afafaf;-webkit-box-shadow:0 0 5px #afafaf;
+                            -o-box-shadow:0 0 5px #afafaf;box-shadow:0 0 5px #afafaf;
+                            filter:progid:DXImageTransform.Microsoft.Shadow(color=#afafaf,Direction=134,Strength=5)">
+                        <tr>
+                            <td style="width:20px; padding:7px 0;">&nbsp;</td>
+                            <td align="center" style="padding:7px 0">
+                                <table class="table" style="width:100%" >
+                                    <tr>
+                                        <td align="center" class="logo" style="border-bottom:4px solid #333333;
+                                            padding:7px 0">
+                                            <a title="{shop_name}" href="{shop_url_link}" style="color:#337ff1">
+                                                <img src="{shop_logo}" alt="{shop_name}" style="width:200px; text-align: center;"/>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <h2 style="text-align: left;"><em><strong>Hola, {firstname} {lastname}</strong></em></h2>
+<table class="table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 7px 0;"><strong><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"> <span style="color: #777;"> Te escribimos este mail porque vimos que dejaste los siguiente productos abandonados en tu carro de compras que por alguna raz&oacute;n no pudiste comprar</span> </span></strong></td>
+</tr>
+</tbody>
+</table>
+<p>{cart_content}</p>
+<table class="table" style="width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 7px 0;">
+<p><strong><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"> <span style="color: #777;">Ojal&aacute; este recordatorio sea de tu ayuda y esperamos no tengas ning&uacute;n inconveniente esta vez! Cualquier pregunta o duda nos puedes escribir a ventasonline@inversierra.cl y con mucho gusto te contestaremos. Muchas gracias por ser parte de nuestra comunidad! </span></span></strong></p>
+<p><span style="color: #555454; font-family: Open-sans, sans-serif; font-size: small;"><span style="color: #777;"><strong>Attentamente, </strong><br /><br /></span></span></p>
+<p><span>Inversierra S.A.<br /><span><a href="https://www.inversierra.cl/">https://www.inversierra.cl/</a></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+                            <td style="width:20px; padding:7px 0;">&nbsp;</td>
+                        </tr>
+                        </table>
+                    </body>
+                </html>

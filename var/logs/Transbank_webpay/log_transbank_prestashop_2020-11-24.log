@@ -1,0 +1,12 @@
+[2020-11-24 09:06:42] [INFO ] INFO: initTransaction - amount: 24260, sessionId: 5fbcf7526b675, buyOrder: 36700, txDate: 24-11-2020, txTime: 09:06:42
+[2020-11-24 09:06:43] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11310a8873a6152f83534c2d3ae726589f1f6325966f4fc926d4bb838be22c96","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-24 09:07:35] [INFO ] INFO: getTransactionResult - tokenWs: 11310a8873a6152f83534c2d3ae726589f1f6325966f4fc926d4bb838be22c96
+[2020-11-24 14:06:42] [INFO ] INFO: initTransaction - amount: 35940, sessionId: 5fbd3da2d6663, buyOrder: 36705, txDate: 24-11-2020, txTime: 14:06:42
+[2020-11-24 14:06:43] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11317151c48c90f17d7c52dee5ac652e63e77b34ee6424d24c7cbe0024b0c0a0","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-24 14:09:30] [INFO ] INFO: getTransactionResult - tokenWs: 11317151c48c90f17d7c52dee5ac652e63e77b34ee6424d24c7cbe0024b0c0a0
+[2020-11-24 16:40:22] [INFO ] INFO: initTransaction - amount: 39970, sessionId: 5fbd61a64ed12, buyOrder: 36554, txDate: 24-11-2020, txTime: 16:40:22
+[2020-11-24 16:40:22] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11315d2a228dfd51edecd0902f6cd76befd3500d598f9e4dbeb011938d5eddb8","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-24 16:41:52] [INFO ] INFO: getTransactionResult - tokenWs: 11315d2a228dfd51edecd0902f6cd76befd3500d598f9e4dbeb011938d5eddb8
+[2020-11-24 20:42:55] [INFO ] INFO: initTransaction - amount: 79920, sessionId: 5fbd9a7fcfc03, buyOrder: 36711, txDate: 24-11-2020, txTime: 20:42:55
+[2020-11-24 20:42:56] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231d898a750233b2bd1371b748a7ae0a69811a24b002483d40888ae0029b95b","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-24 20:44:39] [INFO ] INFO: getTransactionResult - tokenWs: 1231d898a750233b2bd1371b748a7ae0a69811a24b002483d40888ae0029b95b

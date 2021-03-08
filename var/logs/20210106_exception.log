@@ -1,0 +1,1 @@
+*ERROR* 	v1.7.6.5	2021/01/06 - 10:25:57: La longitud del campo Address-&gt;postcode es actualmente de 13 caracteres. Debe tener entre 0 y 12 caracteres. at line 1003 in file classes/ObjectModel.php

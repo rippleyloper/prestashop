@@ -1,0 +1,21 @@
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:50:13: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:50:13: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:50:14: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:50:26: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:50:46: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:50:47: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:51:05: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:51:06: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:51:13: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 12:51:14: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user &#039;inversie_tienda&#039;@&#039;localhost&#039; (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 09:08:41: Table &#039;inversie_tienda.ps_statssearch&#039; doesn&#039;t exist&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;INSERT INTO `ps_statssearch` (`id_shop`, `id_shop_group`, `keywords`, `results`, `date_add`)
+				VALUES (1, 1, &#039;olla&#039;, 51, NOW())&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 09:29:10: Table &#039;inversie_tienda.ps_kb_checkout_behaviour_stats&#039; doesn&#039;t exist&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;SELECT * FROM ps_kb_checkout_behaviour_stats WHERE id_cart = 22839 LIMIT 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 09:44:00: Table &#039;inversie_tienda.ps_statssearch&#039; doesn&#039;t exist&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;INSERT INTO `ps_statssearch` (`id_shop`, `id_shop_group`, `keywords`, `results`, `date_add`)
+				VALUES (1, 1, &#039;t&#039;, 0, NOW())&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 09:44:01: Table &#039;inversie_tienda.ps_statssearch&#039; doesn&#039;t exist&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;INSERT INTO `ps_statssearch` (`id_shop`, `id_shop_group`, `keywords`, `results`, `date_add`)
+				VALUES (1, 1, &#039;tas&#039;, 180, NOW())&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 09:44:01: Table &#039;inversie_tienda.ps_statssearch&#039; doesn&#039;t exist&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;INSERT INTO `ps_statssearch` (`id_shop`, `id_shop_group`, `keywords`, `results`, `date_add`)
+				VALUES (1, 1, &#039;tasa&#039;, 0, NOW())&lt;/pre&gt; at line 769 in file classes/db/Db.php
+*ERROR* 	v1.7.6.5	2020/07/15 - 09:44:02: Table &#039;inversie_tienda.ps_statssearch&#039; doesn&#039;t exist&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;INSERT INTO `ps_statssearch` (`id_shop`, `id_shop_group`, `keywords`, `results`, `date_add`)
+				VALUES (1, 1, &#039;tasa&#039;, 0, NOW())&lt;/pre&gt; at line 769 in file classes/db/Db.php

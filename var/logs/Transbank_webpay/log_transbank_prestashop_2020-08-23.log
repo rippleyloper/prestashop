@@ -1,0 +1,225 @@
+[2020-08-23 00:16:27] [INFO ] INFO: initTransaction - amount: 195430, sessionId: 5f41ed9bacfd2, buyOrder: 29242, txDate: 23-08-2020, txTime: 00:16:27
+[2020-08-23 00:16:27] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e044d34107722b817294d072282b31d873b81b59cf292f3f206f20b12d80543d","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 00:18:00] [INFO ] INFO: getTransactionResult - tokenWs: e044d34107722b817294d072282b31d873b81b59cf292f3f206f20b12d80543d
+[2020-08-23 00:40:16] [INFO ] INFO: initTransaction - amount: 149890, sessionId: 5f41f3307dc9d, buyOrder: 29246, txDate: 23-08-2020, txTime: 00:40:16
+[2020-08-23 00:40:16] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ee348618c998a3bd2903982d87f256f61bccb397a1773e5429a4ad404aa419d1","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 00:42:02] [INFO ] INFO: getTransactionResult - tokenWs: ee348618c998a3bd2903982d87f256f61bccb397a1773e5429a4ad404aa419d1
+[2020-08-23 00:52:05] [INFO ] INFO: initTransaction - amount: 36960, sessionId: 5f41f5f5c8b27, buyOrder: 29244, txDate: 23-08-2020, txTime: 00:52:05
+[2020-08-23 00:52:06] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e337e95e7138d2f1646a202d8850dde2c47f38ef140f32a22051a937c3122ee0","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 00:54:14] [INFO ] INFO: getTransactionResult - tokenWs: e337e95e7138d2f1646a202d8850dde2c47f38ef140f32a22051a937c3122ee0
+[2020-08-23 00:55:52] [INFO ] INFO: initTransaction - amount: 15980, sessionId: 5f41f6d871103, buyOrder: 26983, txDate: 23-08-2020, txTime: 00:55:52
+[2020-08-23 00:55:52] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e0fb477dd8e591891ab6839a7e00ed78913ce41b75cdcb58301bdda54431faef","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 00:57:14] [INFO ] INFO: getTransactionResult - tokenWs: e0fb477dd8e591891ab6839a7e00ed78913ce41b75cdcb58301bdda54431faef
+[2020-08-23 01:03:14] [INFO ] INFO: initTransaction - amount: 12970, sessionId: 5f41f8925c93f, buyOrder: 27755, txDate: 23-08-2020, txTime: 01:03:14
+[2020-08-23 01:03:14] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e8d7042079fa6cbada41ec3fa3233b2dca02dbd7f57d286ef8de08fefc52a0ae","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 01:05:23] [INFO ] INFO: initTransaction - amount: 12970, sessionId: 5f41f9137f439, buyOrder: 27755, txDate: 23-08-2020, txTime: 01:05:23
+[2020-08-23 01:05:23] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7a81de75b0d7199796a8fccfe7ff094c9c08a4a1eac5908e2ef6b5e0f25133c","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 04:29:46] [INFO ] INFO: initTransaction - amount: 25450, sessionId: 5f4228fa095d4, buyOrder: 29259, txDate: 23-08-2020, txTime: 04:29:46
+[2020-08-23 04:29:46] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e4c85756111fc910fce2514ea95e605b1c3ac2b26f8dc22891fe9c9044ddca8a","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 09:10:26] [INFO ] INFO: initTransaction - amount: 51950, sessionId: 5f426ac28b159, buyOrder: 29191, txDate: 23-08-2020, txTime: 09:10:26
+[2020-08-23 09:10:26] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ede310adb25bada1544bbef881f88e2f991fef9f787b552e115b69f5f7ba1642","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 09:39:15] [INFO ] INFO: initTransaction - amount: 27554, sessionId: 5f427183b5473, buyOrder: 29261, txDate: 23-08-2020, txTime: 09:39:15
+[2020-08-23 09:39:15] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e2f844fc66c94aa0a66f4d61dfa1f69542a3eb897df9d9ce638158cab9b15258","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 09:43:24] [INFO ] INFO: getTransactionResult - tokenWs: e2f844fc66c94aa0a66f4d61dfa1f69542a3eb897df9d9ce638158cab9b15258
+[2020-08-23 09:59:25] [INFO ] INFO: initTransaction - amount: 13780, sessionId: 5f42763d78186, buyOrder: 29263, txDate: 23-08-2020, txTime: 09:59:25
+[2020-08-23 09:59:25] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e3a98cdc219eb69b523197c281da189b897201e4be3a976d4f30a461beac0851","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 10:18:52] [INFO ] INFO: initTransaction - amount: 23980, sessionId: 5f427accbd6db, buyOrder: 29265, txDate: 23-08-2020, txTime: 10:18:52
+[2020-08-23 10:18:52] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ec229db7f2ece127f2f00146641f0becc0474f324c7921def36591e421ddf751","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 10:21:16] [INFO ] INFO: initTransaction - amount: 37660, sessionId: 5f427b5c52426, buyOrder: 28743, txDate: 23-08-2020, txTime: 10:21:16
+[2020-08-23 10:21:16] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e09258f09b5df53d48f7cc6d7d15751d97a707257868447a9cb2a908902ada1a","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 10:22:21] [INFO ] INFO: getTransactionResult - tokenWs: e09258f09b5df53d48f7cc6d7d15751d97a707257868447a9cb2a908902ada1a
+[2020-08-23 10:28:23] [INFO ] INFO: initTransaction - amount: 27343, sessionId: 5f427d076574f, buyOrder: 29268, txDate: 23-08-2020, txTime: 10:28:23
+[2020-08-23 10:28:23] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7981b9e290d7178e9ed4b77d9f8c96b9611070312794a8e847cced76764a6d5","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 10:29:28] [INFO ] INFO: getTransactionResult - tokenWs: e7981b9e290d7178e9ed4b77d9f8c96b9611070312794a8e847cced76764a6d5
+[2020-08-23 10:56:23] [INFO ] INFO: initTransaction - amount: 43990, sessionId: 5f428397ae5c1, buyOrder: 29270, txDate: 23-08-2020, txTime: 10:56:23
+[2020-08-23 10:56:23] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"efbebeb0060d768b28bcbc5f67cac453a7cdf3a9c2b4744956e54b99fbfd5e84","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 10:56:27] [INFO ] INFO: initTransaction - amount: 33960, sessionId: 5f42839bea1d8, buyOrder: 29271, txDate: 23-08-2020, txTime: 10:56:27
+[2020-08-23 10:56:28] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7ef69ccde209fd3107155c31d222b58e539aeaad0e54590fbece2ac8e76292a","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 11:09:19] [INFO ] INFO: initTransaction - amount: 64440, sessionId: 5f42869f73c51, buyOrder: 29191, txDate: 23-08-2020, txTime: 11:09:19
+[2020-08-23 11:09:19] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e4096eaaaea263e700447bafcdf0860af93ef069075bab6335efe4540d317a73","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 11:11:18] [INFO ] INFO: getTransactionResult - tokenWs: e4096eaaaea263e700447bafcdf0860af93ef069075bab6335efe4540d317a73
+[2020-08-23 11:49:55] [INFO ] INFO: initTransaction - amount: 22390, sessionId: 5f4290230bd86, buyOrder: 29281, txDate: 23-08-2020, txTime: 11:49:55
+[2020-08-23 11:49:55] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e0baa798a75c963ee6692b3326dba13ecea5350a7f058685a5ba89d296136f87","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 11:50:44] [INFO ] INFO: getTransactionResult - tokenWs: e0baa798a75c963ee6692b3326dba13ecea5350a7f058685a5ba89d296136f87
+[2020-08-23 12:11:12] [INFO ] INFO: initTransaction - amount: 45620, sessionId: 5f4295204f883, buyOrder: 29283, txDate: 23-08-2020, txTime: 12:11:12
+[2020-08-23 12:11:12] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e6eabbc8780042f0b6059668ce8c9ea2140da453553d12b6e450235e0a71f331","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 12:13:12] [INFO ] INFO: getTransactionResult - tokenWs: e6eabbc8780042f0b6059668ce8c9ea2140da453553d12b6e450235e0a71f331
+[2020-08-23 12:25:05] [INFO ] INFO: initTransaction - amount: 66870, sessionId: 5f429861863d1, buyOrder: 29284, txDate: 23-08-2020, txTime: 12:25:05
+[2020-08-23 12:25:05] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7ea54cacde43a39ae48c4d602e8c874c831adc603fad60068d0a92f7220339b","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 12:51:38] [INFO ] INFO: initTransaction - amount: 34250, sessionId: 5f429e9a74a8f, buyOrder: 29290, txDate: 23-08-2020, txTime: 12:51:38
+[2020-08-23 12:51:38] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ec25fd1962bd463ef785b0e7ef00f4d4a4ad33184b05a03655ae2e0eaeafb2c3","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 13:03:54] [INFO ] INFO: initTransaction - amount: 34250, sessionId: 5f42a17a93b74, buyOrder: 29296, txDate: 23-08-2020, txTime: 13:03:54
+[2020-08-23 13:03:54] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e5a1383e9c4d7b25d7fc725d212dbd754787cd570208ed897ef8d68c4d371831","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 13:05:27] [INFO ] INFO: getTransactionResult - tokenWs: e5a1383e9c4d7b25d7fc725d212dbd754787cd570208ed897ef8d68c4d371831
+[2020-08-23 13:07:46] [INFO ] INFO: initTransaction - amount: 28190, sessionId: 5f42a262b51a7, buyOrder: 29288, txDate: 23-08-2020, txTime: 13:07:46
+[2020-08-23 13:07:48] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"efd0fa2933e8c935da4365c14ff91ead27f727475d5d79902267a9158e749445","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 14:30:47] [INFO ] INFO: initTransaction - amount: 34990, sessionId: 5f42b5d7792e9, buyOrder: 29311, txDate: 23-08-2020, txTime: 14:30:47
+[2020-08-23 14:30:47] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7ccc9b0a97846c6542a5c778ec656dcdd507968a5dd04e2aab823da41632094","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 15:00:14] [INFO ] INFO: initTransaction - amount: 39990, sessionId: 5f42bcbe17c88, buyOrder: 29316, txDate: 23-08-2020, txTime: 15:00:14
+[2020-08-23 15:00:14] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eaf64ebce00290f072fa3639c6f260948e2939e2bca1d8df2729928ead082d7a","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 15:01:39] [INFO ] INFO: getTransactionResult - tokenWs: eaf64ebce00290f072fa3639c6f260948e2939e2bca1d8df2729928ead082d7a
+[2020-08-23 15:16:29] [INFO ] INFO: initTransaction - amount: 138165, sessionId: 5f42c08dd379b, buyOrder: 29160, txDate: 23-08-2020, txTime: 15:16:29
+[2020-08-23 15:16:30] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e0279b3ba283bfbe034612645b43e3bbfdf13b927ab7819d0a3364c47bdc59c6","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 15:18:31] [INFO ] INFO: getTransactionResult - tokenWs: e0279b3ba283bfbe034612645b43e3bbfdf13b927ab7819d0a3364c47bdc59c6
+[2020-08-23 15:45:35] [INFO ] INFO: initTransaction - amount: 28374, sessionId: 5f42c75fdb227, buyOrder: 29320, txDate: 23-08-2020, txTime: 15:45:35
+[2020-08-23 15:45:36] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ecf6a36e0ecc1cde940e194cd08647ed68ff69ce61b53bfcb539a6d6c09cfb29","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 15:46:22] [INFO ] INFO: getTransactionResult - tokenWs: ecf6a36e0ecc1cde940e194cd08647ed68ff69ce61b53bfcb539a6d6c09cfb29
+[2020-08-23 15:47:50] [INFO ] INFO: initTransaction - amount: 23980, sessionId: 5f42c7e661bbe, buyOrder: 29322, txDate: 23-08-2020, txTime: 15:47:50
+[2020-08-23 15:47:50] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e68ca7d720ae0a107cd9df3eb66c1f159aed32cd0ef561d0c996c171533fdac3","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 15:49:32] [INFO ] INFO: getTransactionResult - tokenWs: e68ca7d720ae0a107cd9df3eb66c1f159aed32cd0ef561d0c996c171533fdac3
+[2020-08-23 16:29:39] [INFO ] INFO: initTransaction - amount: 24510, sessionId: 5f42d1b3b00b3, buyOrder: 29328, txDate: 23-08-2020, txTime: 16:29:39
+[2020-08-23 16:29:40] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e0c9a4e77419ea4d38cd25b4b030b3622e77a33de701aa2c415129a09550b823","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 16:30:06] [INFO ] INFO: initTransaction - amount: 85840, sessionId: 5f42d1cef31c2, buyOrder: 29017, txDate: 23-08-2020, txTime: 16:30:06
+[2020-08-23 16:30:07] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e766d4e66693ca8055d7fe8e3ecaf5f502c613e18784b7a66b874297a6a102d6","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 16:35:54] [INFO ] INFO: initTransaction - amount: 85840, sessionId: 5f42d32a8c0fb, buyOrder: 29332, txDate: 23-08-2020, txTime: 16:35:54
+[2020-08-23 16:35:54] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e4915d509fb7800aa3640ddb9ca785c604013d923d691037f3bbfe8a99bccf79","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 16:38:06] [INFO ] INFO: initTransaction - amount: 85840, sessionId: 5f42d3ae92c52, buyOrder: 29332, txDate: 23-08-2020, txTime: 16:38:06
+[2020-08-23 16:38:06] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eb4633735595b2f117f4e6042e6ebde71d31c688d7e9f8c4dd0e1d9217bd6d1a","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 16:51:40] [INFO ] INFO: initTransaction - amount: 22980, sessionId: 5f42d6dc6f938, buyOrder: 29334, txDate: 23-08-2020, txTime: 16:51:40
+[2020-08-23 16:51:40] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ed54770770c82e07d5aa97465a363e9b3e0acee2e6e24cf510898c074ce4fab6","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 17:05:05] [INFO ] INFO: initTransaction - amount: 4980, sessionId: 5f42da014f05b, buyOrder: 29340, txDate: 23-08-2020, txTime: 17:05:05
+[2020-08-23 17:05:05] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ed6d2f5e93bb78bf751b75f121e218dc332e20764ae4eea9d90109a13e619cb7","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 17:05:20] [INFO ] INFO: initTransaction - amount: 5980, sessionId: 5f42da104e78a, buyOrder: 29338, txDate: 23-08-2020, txTime: 17:05:20
+[2020-08-23 17:05:20] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e5d3a52c680c69ac98cadbbded37784c9ff5dca374e59023a5a2b7296f0bebc9","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 17:06:26] [INFO ] INFO: getTransactionResult - tokenWs: ed6d2f5e93bb78bf751b75f121e218dc332e20764ae4eea9d90109a13e619cb7
+[2020-08-23 17:37:38] [INFO ] INFO: initTransaction - amount: 51028, sessionId: 5f42e1a2dbde0, buyOrder: 29350, txDate: 23-08-2020, txTime: 17:37:38
+[2020-08-23 17:37:39] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ec1a30b315270b308f8642289e7ea384304a38b052df3374568df90309690550","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 17:38:10] [INFO ] INFO: initTransaction - amount: 25890, sessionId: 5f42e1c2d7df7, buyOrder: 29355, txDate: 23-08-2020, txTime: 17:38:10
+[2020-08-23 17:38:11] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e08addacd4b43a599cad7a39f189a88cd5d29bc36330ef6f0ea7433a169dcd15","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 17:39:21] [INFO ] INFO: getTransactionResult - tokenWs: ec1a30b315270b308f8642289e7ea384304a38b052df3374568df90309690550
+[2020-08-23 17:40:00] [INFO ] INFO: getTransactionResult - tokenWs: e08addacd4b43a599cad7a39f189a88cd5d29bc36330ef6f0ea7433a169dcd15
+[2020-08-23 17:55:32] [INFO ] INFO: initTransaction - amount: 44104, sessionId: 5f42e5d441a78, buyOrder: 29351, txDate: 23-08-2020, txTime: 17:55:32
+[2020-08-23 17:55:32] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eab8698ff39fe27a7fcd9145c33a67c5e8f89f8e9cddf51375a4a539238b71e2","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 17:57:05] [INFO ] INFO: getTransactionResult - tokenWs: eab8698ff39fe27a7fcd9145c33a67c5e8f89f8e9cddf51375a4a539238b71e2
+[2020-08-23 17:58:34] [INFO ] INFO: initTransaction - amount: 38470, sessionId: 5f42e68aa6eb7, buyOrder: 29359, txDate: 23-08-2020, txTime: 17:58:34
+[2020-08-23 17:58:34] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e9409c6e9f93a30c85821e18e0e8495d51b90a5d7ffdfe73ce2624b856690059","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 17:59:37] [INFO ] INFO: initTransaction - amount: 44850, sessionId: 5f42e6c9a9d6d, buyOrder: 29365, txDate: 23-08-2020, txTime: 17:59:37
+[2020-08-23 17:59:38] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"edeb4563c9ad5762149af53bb61d54327bb56b3524cf4a86ec75dd64a6318b02","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 18:01:38] [INFO ] INFO: getTransactionResult - tokenWs: edeb4563c9ad5762149af53bb61d54327bb56b3524cf4a86ec75dd64a6318b02
+[2020-08-23 18:33:37] [INFO ] INFO: initTransaction - amount: 184535, sessionId: 5f42eec176436, buyOrder: 29356, txDate: 23-08-2020, txTime: 18:33:37
+[2020-08-23 18:33:38] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e0de74f3bd8c83cc4375c21f064dfaaaef199194adc06d113bcc906923164842","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 18:41:52] [INFO ] INFO: initTransaction - amount: 104930, sessionId: 5f42f0b0b7f3c, buyOrder: 28814, txDate: 23-08-2020, txTime: 18:41:52
+[2020-08-23 18:41:53] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e65d9fafdcd474191fea76278897524c2bc3881b992323af1e55010e1f9e5382","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 18:50:07] [INFO ] INFO: initTransaction - amount: 104930, sessionId: 5f42f29f3f036, buyOrder: 28814, txDate: 23-08-2020, txTime: 18:50:07
+[2020-08-23 18:50:07] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e85dad15cb1702d909aaddbacf1f276c74cd30f218368c969ec13b5258846ccc","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 18:52:30] [INFO ] INFO: initTransaction - amount: 14970, sessionId: 5f42f32e230ab, buyOrder: 29381, txDate: 23-08-2020, txTime: 18:52:30
+[2020-08-23 18:52:30] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e34b1bd45acc5bc77d4df6a8b89af7520fb8b3fd70f772bb0f8c99efa883334d","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 18:58:06] [INFO ] INFO: initTransaction - amount: 30970, sessionId: 5f42f47e8d568, buyOrder: 29339, txDate: 23-08-2020, txTime: 18:58:06
+[2020-08-23 18:58:06] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e17d2cbbc51c01f6ccdcfbf9fb29e6f64d2bfb3217eb1ea3b06849544c0b796c","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:01:11] [INFO ] INFO: initTransaction - amount: 24460, sessionId: 5f42f537229a6, buyOrder: 29379, txDate: 23-08-2020, txTime: 19:01:11
+[2020-08-23 19:01:11] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e220a32c0ab19f39e86c95294e9e475affcfed213a2b1948377461f4108d0fee","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:05:14] [INFO ] INFO: initTransaction - amount: 0, sessionId: 5f42f62a05eb3, buyOrder: , txDate: 23-08-2020, txTime: 19:05:14
+[2020-08-23 19:05:14] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":" Invalid amount(304) "}
+[2020-08-23 19:05:14] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 0, sessionId: 5f42f62a05eb3, buyOrder: "}
+[2020-08-23 19:05:21] [INFO ] INFO: initTransaction - amount: 0, sessionId: 5f42f63139efc, buyOrder: , txDate: 23-08-2020, txTime: 19:05:21
+[2020-08-23 19:05:21] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":" Invalid amount(304) "}
+[2020-08-23 19:05:21] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 0, sessionId: 5f42f63139efc, buyOrder: "}
+[2020-08-23 19:05:24] [INFO ] INFO: initTransaction - amount: 0, sessionId: 5f42f6341ae7a, buyOrder: , txDate: 23-08-2020, txTime: 19:05:24
+[2020-08-23 19:05:24] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":" Invalid amount(304) "}
+[2020-08-23 19:05:24] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 0, sessionId: 5f42f6341ae7a, buyOrder: "}
+[2020-08-23 19:10:32] [INFO ] INFO: initTransaction - amount: 136120, sessionId: 5f42f7682c59c, buyOrder: 29377, txDate: 23-08-2020, txTime: 19:10:32
+[2020-08-23 19:10:32] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ee4be82faf8a5b35c9e8c58bdae532599d59a7f82eb9f102cb7346a1eaa2ad12","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:13:11] [INFO ] INFO: initTransaction - amount: 116130, sessionId: 5f42f807932a7, buyOrder: 29377, txDate: 23-08-2020, txTime: 19:13:11
+[2020-08-23 19:13:12] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ed264250fb4e13b4c9a9a789d1eba54125603f5e5c199962792145770aedd913","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:14:22] [INFO ] INFO: initTransaction - amount: 32960, sessionId: 5f42f84ecebe1, buyOrder: 29264, txDate: 23-08-2020, txTime: 19:14:22
+[2020-08-23 19:14:23] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e9db6668637327e9a3d64be9a55ed92ac5c766c38e1fdeeff34cfc0d247173cb","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:14:43] [INFO ] INFO: initTransaction - amount: 34800, sessionId: 5f42f863c8e11, buyOrder: 28459, txDate: 23-08-2020, txTime: 19:14:43
+[2020-08-23 19:14:44] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e1930f262c92cf7c0a8db550d73fd2b838ed0fc487464348e230a2ad51b1bec8","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:15:03] [INFO ] INFO: getTransactionResult - tokenWs: ed264250fb4e13b4c9a9a789d1eba54125603f5e5c199962792145770aedd913
+[2020-08-23 19:16:18] [INFO ] INFO: getTransactionResult - tokenWs: e9db6668637327e9a3d64be9a55ed92ac5c766c38e1fdeeff34cfc0d247173cb
+[2020-08-23 19:16:30] [INFO ] INFO: getTransactionResult - tokenWs: e1930f262c92cf7c0a8db550d73fd2b838ed0fc487464348e230a2ad51b1bec8
+[2020-08-23 19:16:36] [INFO ] INFO: initTransaction - amount: 30920, sessionId: 5f42f8d4d3f1e, buyOrder: 29384, txDate: 23-08-2020, txTime: 19:16:36
+[2020-08-23 19:16:37] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ecd8fc1d7db374998363c5803abfa27e68f0c2e5d9ba8807092c53d43ff0e80c","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:18:24] [INFO ] INFO: getTransactionResult - tokenWs: ecd8fc1d7db374998363c5803abfa27e68f0c2e5d9ba8807092c53d43ff0e80c
+[2020-08-23 19:21:08] [INFO ] INFO: initTransaction - amount: 40620, sessionId: 5f42f9e442d0e, buyOrder: 29378, txDate: 23-08-2020, txTime: 19:21:08
+[2020-08-23 19:21:08] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e70755ff12358f528e59a44e3f70162a6d0633aa9f919a02ca0e3aa9db99ce90","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:22:50] [INFO ] INFO: getTransactionResult - tokenWs: e70755ff12358f528e59a44e3f70162a6d0633aa9f919a02ca0e3aa9db99ce90
+[2020-08-23 19:25:45] [INFO ] INFO: initTransaction - amount: 32410, sessionId: 5f42faf97e8c8, buyOrder: 29380, txDate: 23-08-2020, txTime: 19:25:45
+[2020-08-23 19:25:45] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ec905d587dfa79777e9c6589a8523377cca8562501ef54e7024fe21fff17d7cf","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:27:22] [INFO ] INFO: initTransaction - amount: 42027, sessionId: 5f42fb5a79158, buyOrder: 29385, txDate: 23-08-2020, txTime: 19:27:22
+[2020-08-23 19:27:22] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e4d41e7990ef7087b77e5d95fc50542b2a2bf077a2039e4d0dbb05d53f7ce1e1","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:28:40] [INFO ] INFO: getTransactionResult - tokenWs: e4d41e7990ef7087b77e5d95fc50542b2a2bf077a2039e4d0dbb05d53f7ce1e1
+[2020-08-23 19:33:50] [INFO ] INFO: initTransaction - amount: 275220, sessionId: 5f42fcdecacb1, buyOrder: 29383, txDate: 23-08-2020, txTime: 19:33:50
+[2020-08-23 19:33:51] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e47489a587ab74d9de39e54bab55dc2594dd53a48d9b3e65feed5ff67d1ddb5a","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:34:11] [INFO ] INFO: initTransaction - amount: 47340, sessionId: 5f42fcf3a9efd, buyOrder: 29390, txDate: 23-08-2020, txTime: 19:34:11
+[2020-08-23 19:34:11] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ed846202905c7ba9fd20c1dc512f6d7d6474bbb27d7f089305218be8a2cfb17e","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 19:35:34] [INFO ] INFO: getTransactionResult - tokenWs: ed846202905c7ba9fd20c1dc512f6d7d6474bbb27d7f089305218be8a2cfb17e
+[2020-08-23 19:37:47] [INFO ] INFO: getTransactionResult - tokenWs: e47489a587ab74d9de39e54bab55dc2594dd53a48d9b3e65feed5ff67d1ddb5a
+[2020-08-23 19:43:51] [INFO ] INFO: initTransaction - amount: 24460, sessionId: 5f42ff373cd70, buyOrder: 29394, txDate: 23-08-2020, txTime: 19:43:51
+[2020-08-23 19:43:51] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7d50ac5132e37d4d517d4cb5644621c2029bfb51307da65422b269c6d41a6e3","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:06:16] [INFO ] INFO: initTransaction - amount: 22980, sessionId: 5f43047858064, buyOrder: 29334, txDate: 23-08-2020, txTime: 20:06:16
+[2020-08-23 20:06:17] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e8d696adc2ecf6fa531140bdc4f369c69ac78797ad4852186e8b5d3113d2f7c2","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:08:10] [INFO ] INFO: getTransactionResult - tokenWs: e8d696adc2ecf6fa531140bdc4f369c69ac78797ad4852186e8b5d3113d2f7c2
+[2020-08-23 20:17:32] [INFO ] INFO: initTransaction - amount: 38470, sessionId: 5f43071c03b5a, buyOrder: 29404, txDate: 23-08-2020, txTime: 20:17:32
+[2020-08-23 20:17:32] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eb60060027af5fe75af71f5f49baebbb51db7a71ae913fb388d8e3c1c71b66f9","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:19:17] [INFO ] INFO: getTransactionResult - tokenWs: eb60060027af5fe75af71f5f49baebbb51db7a71ae913fb388d8e3c1c71b66f9
+[2020-08-23 20:22:00] [INFO ] INFO: initTransaction - amount: 19410, sessionId: 5f4308288bb34, buyOrder: 29406, txDate: 23-08-2020, txTime: 20:22:00
+[2020-08-23 20:22:00] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e85929cd960e6f3866ab896a5c7c52980fa17ba1020edd5681e7444e42988b97","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:29:26] [INFO ] INFO: initTransaction - amount: 187949, sessionId: 5f4309e6d2df3, buyOrder: 29388, txDate: 23-08-2020, txTime: 20:29:26
+[2020-08-23 20:29:27] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e180e9e39b07d21e3a608a4f815b0752b5cd7385b6fa4e3d256aeeda9af562ec","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:31:01] [INFO ] INFO: getTransactionResult - tokenWs: e180e9e39b07d21e3a608a4f815b0752b5cd7385b6fa4e3d256aeeda9af562ec
+[2020-08-23 20:36:02] [INFO ] INFO: initTransaction - amount: 19410, sessionId: 5f430b72ecb9b, buyOrder: 29408, txDate: 23-08-2020, txTime: 20:36:02
+[2020-08-23 20:36:03] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ef223cc31839ca42d5ebdc1faa8009ed920d972a5884e05d1d9370e60eb00c43","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:37:11] [INFO ] INFO: getTransactionResult - tokenWs: ef223cc31839ca42d5ebdc1faa8009ed920d972a5884e05d1d9370e60eb00c43
+[2020-08-23 20:49:47] [INFO ] INFO: initTransaction - amount: 265305, sessionId: 5f430eabc1a84, buyOrder: 23055, txDate: 23-08-2020, txTime: 20:49:47
+[2020-08-23 20:49:48] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e9fe383359ddd33f6bf29b723412d64b8c62520ab3ca1b3e53f935367511a186","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:54:04] [INFO ] INFO: initTransaction - amount: 265305, sessionId: 5f430fac1b101, buyOrder: 23055, txDate: 23-08-2020, txTime: 20:54:04
+[2020-08-23 20:54:04] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e5727de578cbc3f7aa5d8bd254e28b9a58b49f2a484ab80ef9fb878d2433da13","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 20:55:29] [INFO ] INFO: getTransactionResult - tokenWs: e5727de578cbc3f7aa5d8bd254e28b9a58b49f2a484ab80ef9fb878d2433da13
+[2020-08-23 21:01:38] [INFO ] INFO: initTransaction - amount: 20930, sessionId: 5f4311726f873, buyOrder: 29413, txDate: 23-08-2020, txTime: 21:01:38
+[2020-08-23 21:01:38] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7d24960351b8d5c55b5269808f950bac75340db36ea8f87843bcd63459bcc4d","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 21:04:04] [INFO ] INFO: getTransactionResult - tokenWs: e7d24960351b8d5c55b5269808f950bac75340db36ea8f87843bcd63459bcc4d
+[2020-08-23 21:34:07] [INFO ] INFO: initTransaction - amount: 33970, sessionId: 5f43190f50ea3, buyOrder: 29416, txDate: 23-08-2020, txTime: 21:34:07
+[2020-08-23 21:34:07] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e2505afed41edf49f17b43f07143125e7224cd4336cfdbc8b2f9319d6766e5d4","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 21:36:09] [INFO ] INFO: initTransaction - amount: 33970, sessionId: 5f431989afa04, buyOrder: 29416, txDate: 23-08-2020, txTime: 21:36:09
+[2020-08-23 21:36:09] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e6150dd9942c431481e8fbc026ee1e97e3576f1521c28222370cfc7180b397a7","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 21:37:02] [INFO ] INFO: getTransactionResult - tokenWs: e6150dd9942c431481e8fbc026ee1e97e3576f1521c28222370cfc7180b397a7
+[2020-08-23 21:47:35] [INFO ] INFO: initTransaction - amount: 58030, sessionId: 5f431c379a464, buyOrder: 28921, txDate: 23-08-2020, txTime: 21:47:35
+[2020-08-23 21:47:37] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e7168edaa3527c2a0ee506d9be951ac16bb49c916396f6424aaeff28e8c6bfbf","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 21:48:56] [INFO ] INFO: getTransactionResult - tokenWs: e7168edaa3527c2a0ee506d9be951ac16bb49c916396f6424aaeff28e8c6bfbf
+[2020-08-23 21:53:34] [INFO ] INFO: initTransaction - amount: 21023, sessionId: 5f431d9e6b314, buyOrder: 29431, txDate: 23-08-2020, txTime: 21:53:34
+[2020-08-23 21:53:34] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ecb3a8bccd9ae45245677adaa33983a20bec934df9c16a13bad3eb278469ed7e","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 21:56:03] [INFO ] INFO: getTransactionResult - tokenWs: ecb3a8bccd9ae45245677adaa33983a20bec934df9c16a13bad3eb278469ed7e
+[2020-08-23 21:59:34] [INFO ] INFO: initTransaction - amount: 20900, sessionId: 5f431f061a6b2, buyOrder: 29426, txDate: 23-08-2020, txTime: 21:59:34
+[2020-08-23 21:59:34] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e9a43d80af2111c899eb87737d6ddeb1e9ad7e642269f1241ef34dd0fa30dfc4","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:02:26] [INFO ] INFO: initTransaction - amount: 28860, sessionId: 5f431fb27a0ed, buyOrder: 29426, txDate: 23-08-2020, txTime: 22:02:26
+[2020-08-23 22:02:26] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e1101bec1ca780bb7dc1277b88af61d8ce1952aa86351a436989fd7bde2924c2","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:04:19] [INFO ] INFO: initTransaction - amount: 54580, sessionId: 5f432023f3a95, buyOrder: 29415, txDate: 23-08-2020, txTime: 22:04:19
+[2020-08-23 22:04:20] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e92efe24fd9300b33be0f092efbe28a9a4f6f4c58d54573bd696a11165f00d2e","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:05:35] [INFO ] INFO: initTransaction - amount: 11990, sessionId: 5f43206f0b964, buyOrder: 29433, txDate: 23-08-2020, txTime: 22:05:35
+[2020-08-23 22:05:35] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e2f3818d8b04635ab2bbdcef399246f21193096c9f983fd65de8ddce205e6260","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:07:00] [INFO ] INFO: getTransactionResult - tokenWs: e2f3818d8b04635ab2bbdcef399246f21193096c9f983fd65de8ddce205e6260
+[2020-08-23 22:07:40] [INFO ] INFO: initTransaction - amount: 87470, sessionId: 5f4320ecec8c6, buyOrder: 29422, txDate: 23-08-2020, txTime: 22:07:40
+[2020-08-23 22:07:41] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e1e445e11b3fb8590182335d48e4691b7a1788dbc64a454800809a4e734f9564","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:09:48] [INFO ] INFO: initTransaction - amount: 30850, sessionId: 5f43216cc424e, buyOrder: 29426, txDate: 23-08-2020, txTime: 22:09:48
+[2020-08-23 22:09:49] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e00d442a11863a63e54fb5ca90822f68b0b35d0ac0e7de62750962c7bceae30b","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:12:56] [INFO ] INFO: getTransactionResult - tokenWs: e00d442a11863a63e54fb5ca90822f68b0b35d0ac0e7de62750962c7bceae30b
+[2020-08-23 22:23:55] [INFO ] INFO: initTransaction - amount: 167970, sessionId: 5f4324bbbd8fb, buyOrder: 29410, txDate: 23-08-2020, txTime: 22:23:55
+[2020-08-23 22:23:56] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e790cbf19855537a673e878a31c6b5f85854bba2cd3201bd9577266705359307","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:25:48] [INFO ] INFO: initTransaction - amount: 12980, sessionId: 5f43252cd63c9, buyOrder: 29437, txDate: 23-08-2020, txTime: 22:25:48
+[2020-08-23 22:25:49] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e4442f757233d0ec0a219a5e816b12bc3bf97ea4693659603e6cce50778e04d3","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:34:40] [INFO ] INFO: initTransaction - amount: 42050, sessionId: 5f432740ac5ee, buyOrder: 28425, txDate: 23-08-2020, txTime: 22:34:40
+[2020-08-23 22:34:40] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ee7d5d14484be8cf10e8dccdc04467b9bb915ebf6d824676c60b6fa42d2d4041","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:36:29] [INFO ] INFO: getTransactionResult - tokenWs: ee7d5d14484be8cf10e8dccdc04467b9bb915ebf6d824676c60b6fa42d2d4041
+[2020-08-23 22:36:31] [INFO ] INFO: initTransaction - amount: 79960, sessionId: 5f4327afc124a, buyOrder: 29443, txDate: 23-08-2020, txTime: 22:36:31
+[2020-08-23 22:36:32] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"efef7646aa7035c4109b72018382975b853d31ab959accd2a22a8b84bee87558","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 22:37:29] [INFO ] INFO: getTransactionResult - tokenWs: efef7646aa7035c4109b72018382975b853d31ab959accd2a22a8b84bee87558
+[2020-08-23 23:07:56] [INFO ] INFO: initTransaction - amount: 17210, sessionId: 5f432f0ca21cb, buyOrder: 29399, txDate: 23-08-2020, txTime: 23:07:56
+[2020-08-23 23:07:57] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ed38981e5427e05e0ddd490f58e4cf0d60cfc1f3b987398dee1ed1e9d802b02f","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 23:09:57] [INFO ] INFO: getTransactionResult - tokenWs: ed38981e5427e05e0ddd490f58e4cf0d60cfc1f3b987398dee1ed1e9d802b02f
+[2020-08-23 23:16:08] [INFO ] INFO: initTransaction - amount: 5980, sessionId: 5f4330f8d64a3, buyOrder: 29338, txDate: 23-08-2020, txTime: 23:16:08
+[2020-08-23 23:16:09] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e5163ccfa6e545eb058b3863e5bb534c18b7fd2f73e39125727a881873d67e16","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 23:20:56] [INFO ] INFO: initTransaction - amount: 18170, sessionId: 5f4332187859c, buyOrder: 29425, txDate: 23-08-2020, txTime: 23:20:56
+[2020-08-23 23:20:56] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e794d459cfc6d07192264621b4f0f2e6c8636bedb4aaca5fec4a2cebea0d09ea","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 23:21:57] [INFO ] INFO: getTransactionResult - tokenWs: e794d459cfc6d07192264621b4f0f2e6c8636bedb4aaca5fec4a2cebea0d09ea
+[2020-08-23 23:43:07] [INFO ] INFO: initTransaction - amount: 5980, sessionId: 5f43374b4e609, buyOrder: 29338, txDate: 23-08-2020, txTime: 23:43:07
+[2020-08-23 23:43:07] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e54a59debc9b05256c482ca5727574dd546f4e41c118bcedacba8bb7817a3a84","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 23:44:43] [INFO ] INFO: initTransaction - amount: 85115, sessionId: 5f4337ab09c72, buyOrder: 28730, txDate: 23-08-2020, txTime: 23:44:43
+[2020-08-23 23:44:43] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e57ed0dc8fda5aebd88c6a9f2889d75d0cd02b9c677b1bc244aff2cc06f04af9","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-08-23 23:45:42] [INFO ] INFO: getTransactionResult - tokenWs: e54a59debc9b05256c482ca5727574dd546f4e41c118bcedacba8bb7817a3a84
+[2020-08-23 23:47:29] [INFO ] INFO: getTransactionResult - tokenWs: e57ed0dc8fda5aebd88c6a9f2889d75d0cd02b9c677b1bc244aff2cc06f04af9
+[2020-08-23 23:47:51] [INFO ] INFO: initTransaction - amount: 0, sessionId: 5f43386733f34, buyOrder: , txDate: 23-08-2020, txTime: 23:47:51
+[2020-08-23 23:47:51] [INFO ] INFO: initTransaction - initResult: {"error":"Error conectando a Webpay (Verificar que la informaci&oacute;n del certificado sea correcta)","detail":" Invalid amount(304) "}
+[2020-08-23 23:47:51] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 0, sessionId: 5f43386733f34, buyOrder: "}
+[2020-08-23 23:53:44] [INFO ] INFO: initTransaction - amount: 33880, sessionId: 5f4339c88e1f8, buyOrder: 29448, txDate: 23-08-2020, txTime: 23:53:44
+[2020-08-23 23:53:45] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ed794cffea8bc45446c7c2cbcbf993c1ae367d8c71c55ebe0970642e235e9306","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}

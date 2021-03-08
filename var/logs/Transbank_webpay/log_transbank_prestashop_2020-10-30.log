@@ -1,0 +1,24 @@
+[2020-10-30 02:09:08] [INFO ] INFO: initTransaction - amount: 59240, sessionId: 5f9b9ff47805a, buyOrder: 35125, txDate: 30-10-2020, txTime: 02:09:08
+[2020-10-30 02:09:08] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eac3db0ad2569ee43d69c5c4cdb8a1f559de1034f2a97c0e7679f307bc5479a7","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 02:10:53] [INFO ] INFO: getTransactionResult - tokenWs: eac3db0ad2569ee43d69c5c4cdb8a1f559de1034f2a97c0e7679f307bc5479a7
+[2020-10-30 09:25:32] [INFO ] INFO: initTransaction - amount: 32970, sessionId: 5f9c063c42c2b, buyOrder: 35532, txDate: 30-10-2020, txTime: 09:25:32
+[2020-10-30 09:25:32] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eaafa3370da825ca69ead42682a95814ca78697e01f9332f91798d9e81cd8cbf","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 09:26:49] [INFO ] INFO: getTransactionResult - tokenWs: eaafa3370da825ca69ead42682a95814ca78697e01f9332f91798d9e81cd8cbf
+[2020-10-30 11:48:34] [INFO ] INFO: initTransaction - amount: 42960, sessionId: 5f9c27c2d7a2c, buyOrder: 19813, txDate: 30-10-2020, txTime: 11:48:34
+[2020-10-30 11:48:35] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e2ba3dec53ac4838ddaf7f38d39e4ec480272fea598f5b9aa9f4bcad3982583b","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 11:50:22] [INFO ] INFO: getTransactionResult - tokenWs: e2ba3dec53ac4838ddaf7f38d39e4ec480272fea598f5b9aa9f4bcad3982583b
+[2020-10-30 13:58:55] [INFO ] INFO: initTransaction - amount: 11970, sessionId: 5f9c464f3b526, buyOrder: 35544, txDate: 30-10-2020, txTime: 13:58:55
+[2020-10-30 13:58:55] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e513bc29f1f21bd567c49aac9d6a837f6d7896f14f9ae0a3011bce43389a6b37","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 14:00:48] [INFO ] INFO: getTransactionResult - tokenWs: e513bc29f1f21bd567c49aac9d6a837f6d7896f14f9ae0a3011bce43389a6b37
+[2020-10-30 14:59:26] [INFO ] INFO: initTransaction - amount: 20990, sessionId: 5f9c547e07d9b, buyOrder: 35547, txDate: 30-10-2020, txTime: 14:59:26
+[2020-10-30 14:59:26] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"ef222f35c9015e21c52e593133500333b911a731663eb2159709cf95c14cde99","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 15:00:49] [INFO ] INFO: getTransactionResult - tokenWs: ef222f35c9015e21c52e593133500333b911a731663eb2159709cf95c14cde99
+[2020-10-30 16:03:18] [INFO ] INFO: initTransaction - amount: 102180, sessionId: 5f9c637672b53, buyOrder: 35537, txDate: 30-10-2020, txTime: 16:03:18
+[2020-10-30 16:03:18] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e95ae80b64f0d34fd8fa3b976dd42942accf7a4802ceceb4598295a5a123a1f5","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 16:04:26] [INFO ] INFO: getTransactionResult - tokenWs: e95ae80b64f0d34fd8fa3b976dd42942accf7a4802ceceb4598295a5a123a1f5
+[2020-10-30 18:54:23] [INFO ] INFO: initTransaction - amount: 15770, sessionId: 5f9c8b8f057fc, buyOrder: 35558, txDate: 30-10-2020, txTime: 18:54:23
+[2020-10-30 18:54:23] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eb7ee6f8205e4f65933716fd712ba193d4e0cdcce2a4a31491cde16878f1bf91","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 18:55:34] [INFO ] INFO: getTransactionResult - tokenWs: eb7ee6f8205e4f65933716fd712ba193d4e0cdcce2a4a31491cde16878f1bf91
+[2020-10-30 21:56:08] [INFO ] INFO: initTransaction - amount: 22484, sessionId: 5f9cb6287a13f, buyOrder: 35567, txDate: 30-10-2020, txTime: 21:56:08
+[2020-10-30 21:56:08] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"eab83e10d1b9e38796a8298689d92baf096c3ac8af4ef52512541e12521e8cbf","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-10-30 21:57:22] [INFO ] INFO: getTransactionResult - tokenWs: eab83e10d1b9e38796a8298689d92baf096c3ac8af4ef52512541e12521e8cbf

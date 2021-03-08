@@ -1,0 +1,15 @@
+[2020-11-26 16:07:44] [INFO ] INFO: initTransaction - amount: 30710, sessionId: 5fbffd009dbe9, buyOrder: 36732, txDate: 26-11-2020, txTime: 16:07:44
+[2020-11-26 16:07:44] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231aad0b0b7892537ef274590d79aa0467b2d3d83aa7266c7c4b702c4da2c5d","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-26 16:07:51] [INFO ] INFO: initTransaction - amount: 26330, sessionId: 5fbffd0719d3a, buyOrder: 36735, txDate: 26-11-2020, txTime: 16:07:51
+[2020-11-26 16:07:51] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1131991145def466e5405643fe356cf8a3440460b445e76e248836a4a6d43f08","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-26 16:09:01] [INFO ] INFO: getTransactionResult - tokenWs: 1231aad0b0b7892537ef274590d79aa0467b2d3d83aa7266c7c4b702c4da2c5d
+[2020-11-26 16:10:22] [INFO ] INFO: getTransactionResult - tokenWs: 1131991145def466e5405643fe356cf8a3440460b445e76e248836a4a6d43f08
+[2020-11-26 17:13:25] [INFO ] INFO: initTransaction - amount: 35980, sessionId: 5fc00c6513af9, buyOrder: 36737, txDate: 26-11-2020, txTime: 17:13:25
+[2020-11-26 17:13:25] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"113155361957306906f1d9293ddfdf0b603543b9a3224061403fe32189096352","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-26 17:15:14] [INFO ] INFO: getTransactionResult - tokenWs: 113155361957306906f1d9293ddfdf0b603543b9a3224061403fe32189096352
+[2020-11-26 20:16:30] [INFO ] INFO: initTransaction - amount: 303130, sessionId: 5fc0374e5b2d7, buyOrder: 36739, txDate: 26-11-2020, txTime: 20:16:30
+[2020-11-26 20:16:30] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11316155fa690de34a0f2db735846f235c613d3d88c69b3af2a066ca45da66b3","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-26 20:19:01] [INFO ] INFO: getTransactionResult - tokenWs: 11316155fa690de34a0f2db735846f235c613d3d88c69b3af2a066ca45da66b3
+[2020-11-26 20:22:43] [INFO ] INFO: initTransaction - amount: 31960, sessionId: 5fc038c3237db, buyOrder: 26644, txDate: 26-11-2020, txTime: 20:22:43
+[2020-11-26 20:22:43] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11311b8f9483ab1b0576cdcda324eb1155f31fdb5350645e5b458cc7d0abdad9","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-26 20:25:03] [INFO ] INFO: getTransactionResult - tokenWs: 11311b8f9483ab1b0576cdcda324eb1155f31fdb5350645e5b458cc7d0abdad9

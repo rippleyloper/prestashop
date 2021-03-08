@@ -1,0 +1,290 @@
+.hide{
+	display: none;
+}
+
+button[type="submit"]:disabled {
+    cursor: no-drop;
+}
+
+.popup-ajax-loader{
+    display: none;
+}
+.popup-ajax-loader{
+    position: absolute;
+    width: 20px;
+}
+
+
+/*Globals*/
+.popup-title{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 13px;
+}
+
+/* === Inputs images === */
+.popup_user_icon {
+    background-image: url(../img/icons/user.svg);
+    background-repeat: no-repeat;
+    background-position: 18px;
+}
+
+.popup_password_icon {
+    background-image: url(../img/icons/password.svg) ;
+    background-repeat: no-repeat;
+    background-position: 18px;
+}
+
+.popup_email_icon{
+    background-image: url(../img/icons/email.svg);
+    background-repeat: no-repeat;
+    background-position: 18px;
+}
+
+.password-group{
+    position: relative;
+}
+.password-group .forgot-password{
+    position: absolute;
+    top: 11px;
+    right: 19px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: left;
+    
+}
+
+.popup_type_register.white-popup,
+.popup_type_login.white-popup ,
+.popup_type_newsletter.white-popup {
+    width: 527px;
+}
+.popup_type_login_and_register button.mfp-close,
+.popup_type_register button.mfp-close,
+.popup_type_login button.mfp-close,
+.popup_type_newsletter button.mfp-close{
+    background: transparent url(../img/icons/close.svg) no-repeat 0px;
+    font-size: 0px;
+    position: absolute;
+    top: 25px;
+    right: 23px;
+    width: 25px;
+    height: 24px;
+}
+.popup_authentication_box .form-group,
+.popup_type_newsletter .form-group{
+    margin-bottom: 20px;
+}
+.popup_authentication_box .popup_register_form_content,
+.popup_authentication_box .popup_login_form_content,
+.popup_type_newsletter .newsletter-container{
+    width: 410px;
+    margin: 0 auto;
+}
+.popup_authentication_box input,
+.popup_type_newsletter .popup_newsletter_form input{
+    padding: 10px 10px 10px 40px;
+}
+
+/*Login and register style*/
+.popup_type_login_and_register.white-popup{
+    width: 900px;
+    padding: 20px 63px;
+}
+.popup_type_login_and_register.header_single_popup.white-popup{
+    width: 537px;
+}
+.popup_type_login_and_register .popup_login_block{
+    width: 360px;
+    float: left;
+    margin-right: 27px;
+}
+.popup_type_login_and_register .popup_register_block{
+    width: 360px;
+    float: left;
+}
+.popup_type_login_and_register .popup_register_block .popup_register_form{
+    padding-left: 27px;
+    width: 390px;
+}
+
+.popup_type_login_and_register .social-connect-title::after,
+.popup_type_login_and_register .social-connect-title::before {
+    width: 103px;
+}
+.popup_type_login_and_register .popup_social_connect_content .sc-button{
+    width: 110px;
+    background-position: 8px;
+    background-repeat: no-repeat;
+}
+.popup_type_login_and_register.header_single_popup .popup_social_connect_content .sc-button{
+    width: 128px;
+}
+
+
+/*Newsletter style*/
+.popup_type_newsletter .popup_newsletter_form .checker{
+    display: inline-block;
+}
+
+.popup_type_newsletter .hi-popup-voucher-desc{
+	text-align: center;
+	font-size: 18px;
+}
+
+/*Social connect style*/
+.social-connect-title{
+    opacity: 0.8;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    position: relative;
+}
+.social-connect-title::after,
+.social-connect-title::before {
+    content: "";
+    display: block;
+    width: 130px;
+    height: 1px;
+    vertical-align: middle;
+    position: absolute;
+}
+
+.social-connect-title::after {
+    right: 0px;
+}
+.social-connect-title::before {
+    left: 0px;
+}
+
+.popup_social_connect_content .sc-button{
+    width: 125px;
+    height: 45px;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    margin-right: 7px;
+    background-position: 15px;
+    background-repeat: no-repeat;
+}
+.popup_social_connect_content .sc-button:last-child{
+    margin-right: 0px;
+}
+.popup_social_connect_content .sc-button span{
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+    display: block;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.popup_social_connect_content .sc-fb-button{
+    background-image: url('../img/icons/facebook.svg');
+    background-color: #4b70af;
+}
+.popup_social_connect_content .sc-tw-button{
+    background-image: url('../img/icons/twitter.svg');
+    background-color: #5093fd;
+}
+.popup_social_connect_content .sc-gl-button{
+    background-image: url('../img/icons/google.svg');
+    background-color: #f35f5f;
+}
+
+.hi_spinner{
+    width:100%;
+    height:100%;
+    background:rgba(255, 255, 255, 0.8);
+    z-index:99999;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.hi_spinner img{
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-55px;
+    margin-left:-55px;
+}
+.hi_overflow{
+    overflow:hidden;
+}
+
+
+/*Responsive*/
+@media all and (max-width: 930px) {
+    .popup_type_login_and_register.white-popup{
+        width: 100%;
+    }
+    .popup-title{
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .popup_type_login_and_register .popup_login_block,
+    .popup_type_login_and_register .popup_register_block{
+        width: 100%;
+        float: none;
+        margin-right: 0;
+    }
+    .popup_type_login_and_register .popup_register_block .popup_register_form{
+        border-left: none;
+        padding-left: 0px;
+        width: 100%;
+    }
+    .popup_type_login_and_register .popup_authentication_box input,
+    .popup_type_login_and_register .popup_authentication_box button{
+        width: 100%;
+    }
+}
+@media all and (max-width: 660px) {
+    .popup_type_register.white-popup,
+    .popup_type_login.white-popup ,
+    .popup_type_newsletter.white-popup {
+        width: 100%;
+    }
+    .popup_authentication_box .popup_register_form_content,
+    .popup_authentication_box .popup_login_form_content,
+    .popup_type_newsletter .newsletter-container{
+        width: 100%;
+    }
+    .popup_type_login_and_register button.mfp-close, 
+    .popup_type_register button.mfp-close, 
+    .popup_type_login button.mfp-close, 
+    .popup_type_newsletter button.mfp-close{
+        top: 7px;
+        right: 15px;
+    }
+
+    .popup_authentication_box input, 
+    .popup_type_newsletter .popup_newsletter_form input{
+        width: 100%
+    }
+    .popup_authentication_box button,
+    .popup_type_newsletter .popup_newsletter_form button {
+        width: 100%;
+    }
+    .popup_social_connect_content .sc-button{
+        width: 100%;
+        margin-top: 5px;
+    }
+    .social-connect-title::after,
+    .social-connect-title::before {
+        display: none;
+    }
+}
+@media all and (max-width: 500px) {
+    .password-group .forgot-password{
+        top: 53px;
+        right: 0px;
+    }
+    .popup_type_login_and_register .popup_social_connect_content .sc-button{
+        width: 100%;
+        margin-top: 5px;
+    }
+}
+

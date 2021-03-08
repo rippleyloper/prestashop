@@ -1,0 +1,42 @@
+.row .btn-edit-with-ce,
+.form-group .btn-edit-with-ce {
+	margin: 4px 0;
+	padding: 12px 15px 12px 13px;
+	background: #9b0a46 !important;
+	color: #fff !important;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+}
+.adminproducts #description .btn-edit-with-ce {
+	margin: 10px;
+}
+.adminproducts #description .btn-edit-with-ce ~ .mce-tinymce {
+	margin: 0 10px 10px;
+}
+.ce-product-hook::first-letter {
+	text-transform: uppercase;
+}
+.row .btn-edit-with-ce:hover,
+.form-group .btn-edit-with-ce:hover {
+	opacity: 0.85;
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.2);
+}
+.row .btn-edit-with-ce:active,
+.form-group .btn-edit-with-ce:active {
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.1);
+}
+.row .btn-edit-with-ce .material-icons,
+.form-group .btn-edit-with-ce .material-icons {
+	vertical-align: middle;
+	font-size: 24px !important;
+	line-height: 19px;
+}
+.admincreativepage .select2-container {
+	margin: 4px 0;
+}
+.btn-edit-with-ce ~ .mce-tinymce {
+	border: 1px solid #dfdfdf !important;
+}
+.btn-edit-with-ce ~ .mce-tinymce > .mce-container-body {
+	border: none !important;
+}

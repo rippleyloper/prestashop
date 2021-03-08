@@ -1,0 +1,319 @@
+.position_inline{
+	display: inline-block;
+}
+.position_block{
+	display: block;
+}
+/*Buttons style start*/
+
+/*Ps 1.7*/
+.popup-sc-btn-17{
+	margin-top: 5px;
+}
+
+
+/* Top Small Buttons */
+.popup-sc-s-btn{
+	float:right;
+	display:block;
+	cursor:pointer;
+	margin-left:5px;
+	height: 38px;
+}
+.popup-sc-s-btn-custom{
+	display:block;
+	cursor:pointer;
+	margin-left:5px;
+	margin-bottom:1px;
+	height:35px;
+	width:36px;
+}
+.popup-sc-s-btn:hover,
+.popup-sc-s-btn-custom:hover{
+	opacity:0.9;
+}
+.popup-sc-s-btn > span,
+.popup-sc-s-btn-custom > span{
+	-moz-background-size:1px 100%;
+	background-size:1px 100%;
+	background-position:0 0, 100% 0;
+	background-repeat:no-repeat;
+	display: block;
+}
+.popup-sc-s-btn > span > span,
+.popup-sc-s-btn-custom > span > span{
+	display: block;
+	width:36px;
+	height:34px;
+}
+
+/*Facebook*/
+.popup-sc-fb-s-btn{
+	background: linear-gradient(#5a7bc0, #4663a1);
+	background: -webkit-linear-gradient(#5a7bc0, #4663a1);
+	background: -o-linear-gradient(#5a7bc0, #4663a1);
+	background: -moz-linear-gradient(#5a7bc0, #4663a1);
+	border:1px solid #4363a5;
+}
+.popup-sc-fb-s-btn > span{
+	border-top:1px solid #6b88c6;
+	border-bottom:1px solid #5872aa;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6b88c6), to(#5872aa));
+	background-image: -webkit-linear-gradient(#6b88c6, #5872aa);
+	background-image:
+		-moz-linear-gradient(#6b88c6, #5872aa),
+		-moz-linear-gradient(#6b88c6, #5872aa);
+	background-image:
+		-o-linear-gradient(#6b88c6, #5872aa),
+		-o-linear-gradient(#6b88c6, #5872aa);
+	background-image: 
+		linear-gradient(#6b88c6, #5872aa),
+		linear-gradient(#6b88c6, #5872aa);
+}
+.popup-sc-fb-s-btn > span > span{
+	background: url('../img/icons/facebook.svg') no-repeat center;
+}
+
+/*Twitter*/
+.popup-sc-tw-s-btn{
+	background: linear-gradient(#3acaf7, #2bbce9);
+	background: -webkit-linear-gradient(#3acaf7, #2bbce9);
+	background: -o-linear-gradient(#3acaf7, #2bbce9);
+	background: -moz-linear-gradient(#3acaf7, #2bbce9);
+	border:1px solid #2ba4c9;
+}
+.popup-sc-tw-s-btn > span{
+	border-top:1px solid #53d1f8;
+	border-bottom:1px solid #42c3ec;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#53d1f8), to(#42c3ec));
+	background-image: -webkit-linear-gradient(#53d1f8, #42c3ec);
+	background-image:
+		-moz-linear-gradient(#53d1f8, #42c3ec),
+		-moz-linear-gradient(#53d1f8, #42c3ec);
+	background-image:
+		-o-linear-gradient(#53d1f8, #42c3ec),
+		-o-linear-gradient(#53d1f8, #42c3ec);
+	background-image: 
+		linear-gradient(#53d1f8, #42c3ec),
+		linear-gradient(#53d1f8, #42c3ec);
+}
+.popup-sc-tw-s-btn > span > span{
+	background: url('../img/icons/twitter.svg') no-repeat center;
+}
+
+/*Goolge+*/
+.popup-sc-gl-s-btn{
+	background: linear-gradient(#e6503f, #d24635);
+	background: -webkit-linear-gradient(#e6503f, #d24635);
+	background: -o-linear-gradient(#e6503f, #d24635);
+	background: -moz-linear-gradient(#e6503f, #d24635);
+	border:1px solid #bb301f;
+}
+.popup-sc-gl-s-btn > span{
+	border-top:1px solid #ea6c5e;
+	border-bottom:1px solid #d86355;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ea6c5e), to(#d86355));
+	background-image: -webkit-linear-gradient(#ea6c5e, #d86355);
+	background-image:
+		-moz-linear-gradient(#ea6c5e, #d86355),
+		-moz-linear-gradient(#ea6c5e, #d86355);
+	background-image:
+		-o-linear-gradient(#ea6c5e, #d86355),
+		-o-linear-gradient(#ea6c5e, #d86355);
+	background-image: 
+		linear-gradient(#ea6c5e, #d86355),
+		linear-gradient(#ea6c5e, #d86355);
+}
+.popup-sc-gl-s-btn > span > span{
+	background: url('../img/icons/google.svg') no-repeat center;
+}
+
+/* End of Top Small Buttons styles*/
+	
+/* Custom Buttons With text Sing in */	
+
+.popup-sc-button{
+	cursor: pointer;
+	width: 208px;
+	height: 39px;
+	margin-bottom:5px;
+	margin-right: 5px;
+	display:block;
+	float: left;
+}
+
+.popup-sc-button-custom{
+	cursor: pointer;
+	width: 208px;
+	height: 39px;
+	margin-bottom:5px;
+	margin-left: 5px;
+	display:block;
+}
+.popup-sc-button:hover,
+.popup-sc-button-custom:hover{
+	opacity: 0.9;
+}
+.popup-sc-button-text{
+	-moz-background-size:1px 100%;
+	background-size:1px 100%;
+	background-position:0 0, 100% 0;
+	background-repeat:no-repeat;
+	display: block;
+	float: left;
+	padding:0px 1px;
+	color:#ffffff;
+	font-size:12px;
+}
+.popup-sc-button-text > span{
+	display:block;
+	border-top: 1px solid;
+	line-height: 37px;
+  	width: 160px;
+  	text-align: center;
+}
+.popup-sc-button-icon{
+	-moz-background-size:1px 100%;
+	background-size:1px 100%;
+	background-position:0 0, 100% 0;
+	background-repeat:no-repeat;
+	display: block;
+	float: left;
+	padding:0px 1px;
+}
+.popup-sc-button-icon > span{
+	border-top:1px solid;
+	display:block;
+	width: 44px;
+	height: 36px;
+}
+
+/* Facebook */
+.popup-sc-fb-button{
+	background: linear-gradient(#7495da, #5575be);
+	background: -webkit-linear-gradient(#7495da, #5575be);
+	background: -o-linear-gradient(#7495da, #5575be);
+	background: -moz-linear-gradient(#7495da, #5575be);
+	border-top:1px solid #587ec7;
+	border-bottom:1px solid #324b7c;
+}
+.popup-sc-fb-button .popup-sc-button-text{
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#587ec7), to(#324b7c));
+	background-image: -webkit-linear-gradient(#587ec7, #324b7c);
+	background-image:
+		-moz-linear-gradient(#587ec7, #324b7c),
+		-moz-linear-gradient(#587ec7, #324b7c);
+	background-image:
+		-o-linear-gradient(#587ec7, #324b7c),
+		-o-linear-gradient(#587ec7, #324b7c);
+	background-image: 
+		linear-gradient(#587ec7, #324b7c),
+		linear-gradient(#587ec7, #324b7c);
+}
+.popup-sc-fb-button .popup-sc-button-text > span,
+.popup-sc-fb-button .popup-sc-button-icon > span{
+	border-color: #8da8e1;
+}
+.popup-sc-fb-button .popup-sc-button-icon{
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#8da8e1), to(#5e77bf));
+	background-image: -webkit-linear-gradient(#8da8e1, #5e77bf);
+	background-image:
+		-moz-linear-gradient(#8da8e1, #5e77bf),
+		-moz-linear-gradient(#587ec7, #324b7c);
+	background-image:
+		-o-linear-gradient(#8da8e1, #5e77bf),
+		-o-linear-gradient(#587ec7, #324b7c);
+	background-image: 
+		linear-gradient(#8da8e1, #5e77bf),
+		linear-gradient(#587ec7, #324b7c);
+}
+.popup-sc-fb-button .popup-sc-button-icon > span { 	
+  	background: url('../img/icons/facebook.svg') no-repeat center;
+}
+	
+/* Twitter */
+.popup-sc-tw-button{
+	background: linear-gradient(#69d0ff, #1aadf4);
+	background: -webkit-linear-gradient(#69d0ff, #1aadf4);
+	background: -o-linear-gradient(#69d0ff, #1aadf4);
+	background: -moz-linear-gradient(#69d0ff, #1aadf4);
+	border-top:1px solid #07a6f0;
+	border-bottom:1px solid #057bb1;
+}
+.popup-sc-tw-button .popup-sc-button-text{
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#07a6f0), to(#057bb1));
+	background-image: -webkit-linear-gradient(#07a6f0, #057bb1);
+	background-image:
+		-moz-linear-gradient(#07a6f0, #057bb1),
+		-moz-linear-gradient(#07a6f0, #057bb1);
+	background-image:
+		-o-linear-gradient(#07a6f0, #057bb1),
+		-o-linear-gradient(#07a6f0, #057bb1);
+	background-image: 
+		linear-gradient(#07a6f0, #057bb1),
+		linear-gradient(#07a6f0, #057bb1);
+}
+.popup-sc-tw-button .popup-sc-button-text > span,
+.popup-sc-tw-button .popup-sc-button-icon > span{
+	border-color: #9de0ff;
+}
+.popup-sc-tw-button .popup-sc-button-icon{
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#9de0ff), to(#28b3f6));
+	background-image: -webkit-linear-gradient(#9de0ff, #28b3f6);
+	background-image:
+		-moz-linear-gradient(#9de0ff, #28b3f6),
+		-moz-linear-gradient(#07a6f0, #057bb1);
+	background-image:
+		-o-linear-gradient(#9de0ff, #28b3f6),
+		-o-linear-gradient(#07a6f0, #057bb1);
+	background-image: 
+		linear-gradient(#9de0ff, #28b3f6),
+		linear-gradient(#07a6f0, #057bb1);
+}
+.popup-sc-tw-button .popup-sc-button-icon > span { 	
+	background: url('../img/icons/twitter.svg') no-repeat center;
+}
+
+/* Google+ */
+.popup-sc-gl-button{
+	background: linear-gradient(#e8513f, #c74231);
+	background: -webkit-linear-gradient(#e8513f, #c74231);
+	background: -o-linear-gradient(#e8513f, #c74231);
+	background: -moz-linear-gradient(#e8513f, #c74231);
+	border-top:1px solid #c54838;
+	border-bottom:1px solid #a02f21;
+}
+.popup-sc-gl-button .popup-sc-button-text{
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#c54838), to(#a02f21));
+	background-image: -webkit-linear-gradient(#c54838, #a02f21);
+	background-image:
+		-moz-linear-gradient(#c54838, #a02f21),
+		-moz-linear-gradient(#c54838, #a02f21);
+	background-image:
+		-o-linear-gradient(#c54838, #a02f21),
+		-o-linear-gradient(#c54838, #a02f21);
+	background-image: 
+		linear-gradient(#c54838, #a02f21),
+		linear-gradient(#c54838, #a02f21);
+}
+.popup-sc-gl-button .popup-sc-button-text > span,
+.popup-sc-gl-button .popup-sc-button-icon > span{
+	border-color: #ec7062;
+}
+.popup-sc-gl-button .popup-sc-button-icon{
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ec7062), to(#c74332));
+	background-image: -webkit-linear-gradient(#ec7062, #c74332);
+	background-image:
+		-moz-linear-gradient(#ec7062, #c74332),
+		-moz-linear-gradient(#c54838, #a02f21);
+	background-image:
+		-o-linear-gradient(#ec7062, #c74332),
+		-o-linear-gradient(#c54838, #a02f21);
+	background-image: 
+		linear-gradient(#ec7062, #c74332),
+		linear-gradient(#c54838, #a02f21);
+}
+.popup-sc-gl-button .popup-sc-button-icon > span {
+	background: url('../img/icons/google.svg') no-repeat center;
+}	
+

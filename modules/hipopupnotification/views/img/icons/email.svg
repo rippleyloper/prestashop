@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="13px" viewBox="0 0 17 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polyline id="path-1" points="0 0 0 17 17 17 17 0 0 0"></polyline>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="if_envelope_outline_199297" transform="translate(0.000000, -2.000000)">
+            <g id="g10" transform="translate(8.500000, 8.500000) scale(-1, 1) rotate(-180.000000) translate(-8.500000, -8.500000) ">
+                <g id="g12">
+                    <g id="g14-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path18"></g>
+                        <g id="g14" mask="url(#mask-2)" stroke-linecap="round">
+                            <g transform="translate(-20.305556, 2.833333)" id="g20">
+                                <g>
+                                    <g id="g34" transform="translate(20.305556, -0.000000)" stroke-width="1.80000008" stroke="#89898C">
+                                        <g id="g36">
+                                            <path d="M0.339527778,10.4233611 L0.339527778,0.910444444 C0.339527778,0.527 0.651194444,0.215805556 1.03463889,0.215805556 L15.9639444,0.215805556 C16.3473889,0.215805556 16.6585833,0.527 16.6585833,0.910444444 L16.6585833,10.4233611 C16.6585833,10.8068056 16.3473889,11.118 15.9639444,11.118 L1.03463889,11.118 C0.651194444,11.118 0.339527778,10.8068056 0.339527778,10.4233611 L0.339527778,10.4233611 Z" id="path38"></path>
+                                        </g>
+                                    </g>
+                                    <g id="g40" transform="translate(20.305556, 3.777778)" stroke-width="1.80000008" stroke="#89898C">
+                                        <g id="g42">
+                                            <path d="M8.49952778,0.371166667 L0.340472222,5.91363889 L0.340472222,6.64511111 C0.340472222,7.02855556 0.652138889,7.33975 1.03558333,7.33975 L15.9644167,7.33975 C16.3483333,7.33975 16.66,7.02855556 16.66,6.64511111 L16.66,6.01280556 L8.49952778,0.371166667 L8.49952778,0.371166667 Z" id="path44"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>hipopupnotification</name>
+    <displayName><![CDATA[Notificaci&oacute;n Pop-Up]]></displayName>
+    <version><![CDATA[1.0.6]]></version>
+    <description><![CDATA[Crear pop-ups ilimitadas]]></description>
+    <author><![CDATA[hipresta]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[¿Estás seguro que lo quieres desinstalar?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

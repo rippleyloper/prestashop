@@ -1,0 +1,236 @@
+/********************************************************
+			Templatemela Custom Styles
+********************************************************/
+.tm-carousel {
+  display: none;
+  position: relative;
+  float: left;
+  width: 100%;
+  margin: 0;
+  -ms-touch-action: pan-y;
+}
+.owl-carousel .owl-wrapper {
+  display: none;
+  position: relative;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+    -moz-transform: translate3d(0px, 0px, 0px);
+    -ms-transform: translate3d(0px, 0px, 0px);
+    -o-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+}
+.owl-carousel .owl-wrapper:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.owl-carousel .owl-wrapper-outer {
+  overflow: hidden;
+  position: relative;
+  float: left;
+  width: 100%;
+}
+.owl-carousel .owl-wrapper-outer.autoHeight {
+  -webkit-transition: height 500ms ease-in-out;
+  -moz-transition: height 500ms ease-in-out;
+  -ms-transition: height 500ms ease-in-out;
+  -o-transition: height 500ms ease-in-out;
+  transition: height 500ms ease-in-out;
+}
+.owl-carousel .owl-item {
+  float: left;
+}
+.owl-carousel .owl-item .manu_image a {
+  display: inline-block;
+}
+.owl-carousel .owl-item .manu_image a img {
+  max-width: 100%;
+}
+.owl-carousel .owl-wrapper,
+.owl-carousel .owl-item {
+  /* fix */
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  text-align: center;
+}
+
+/* mouse grab icon */
+.grabbing {
+  cursor: url("../img/megnor/grabbing.png") 8 8, move;
+}
+ 
+.customNavigation {
+  position:absolute;
+  z-index: 959;
+  width: 100%;
+  direction: ltr !important;
+  text-align:center;
+  clear:both;
+  top:37.5%;
+  opacity: 0;
+  -webkit-opacity: 0;
+  -moz-opacity: 0;
+  -ms-opacity: 0;
+  -o-opacity: 0;
+  transition: all 0.6s ease-in-out;
+  -webkit-transition: all 0.6s ease-in-out;
+  -moz-transition: all 0.6s ease-in-out;
+  -ms-transition: all 0.6s ease-in-out;
+  -o-transition: all 0.6s ease-in-out;
+}
+.brands .customNavigation{
+  top: 30.5%;
+}
+.products:hover .customNavigation, .homeblog-inner:hover .customNavigation, .js-qv-mask.additional_slider:hover .customNavigation{
+  opacity: 1;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  -ms-opacity: 1;
+  -o-opacity: 1;
+}
+.js-qv-mask.additional_slider .customNavigation {
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -ms-opacity: 1;
+    -o-opacity: 1;
+    top: 33%;
+}
+.customNavigation a {
+  position:absolute;
+  line-height: 36px;
+  padding: 0;
+  border:none;
+  height: 38px;
+  width: 38px;
+  cursor: pointer;
+  overflow: hidden;
+  font-size:0.001px;
+}
+.customNavigation a.prev{ 
+  left: 0;
+}
+.customNavigation a.next{ 
+  right:0;
+}
+.customNavigation a::before {
+    position: absolute;
+    font-family: fontawesome;
+    font-size: 30px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    color: #fff;
+    font-weight: 400;
+}
+.customNavigation a.prev::before {
+    content: "\f104";
+}
+.customNavigation a.next::before {
+    content: "\f105";
+    right: -5px;
+}
+@media (max-width: 1200px){
+  .customNavigation{
+    top: 34.5%;
+  }
+}
+@media (max-width: 1199px){
+  .customNavigation{
+    top: 36.5%;
+  }
+}
+@media (max-width: 991px){
+  .customNavigation a.prev{
+    left: 10px;
+  }
+  .customNavigation a.next{
+    right: 10px;
+  }
+ .lastest_block.block.tmblog-latest .customNavigation {
+  top: 28.5%;
+}
+.lastest_block.block.tmblog-latest .customNavigation a {
+
+  line-height: 26px;
+
+  height: 28px;
+  width: 28px;
+
+}
+.lastest_block.block.tmblog-latest .customNavigation a::before {
+ 
+  font-size: 25px;
+
+}
+}
+@media (max-width: 767px){
+  .customNavigation{
+      opacity: 1;
+      -webkit-opacity: 1;
+      -moz-opacity: 1;
+      -ms-opacity: 1;
+      -o-opacity: 1;
+      top: 34%;
+  }
+  .customNavigation a.prev {
+  left: 20px;
+}
+.lastest_block.block.tmblog-latest .customNavigation {
+  top: 31.5%;
+}
+.customNavigation a.next {
+  right: 20px;
+}
+ 
+}
+@media (max-width: 543px){
+  .customNavigation{
+    top: 29%;
+  }
+  .lastest_block.block.tmblog-latest .customNavigation {
+  top: 24.5%;
+}
+}
+@media (max-width: 479px){
+  .customNavigation a{
+    line-height: 25px;
+    height: 25px;
+    width: 25px;
+  }
+  .customNavigation a::before{
+    font-size: 18px;
+  }
+  .customNavigation a.prev {
+      left: 10px;
+  }
+  .lastest_block.block.tmblog-latest .customNavigation {
+    top: 28.5%;
+}
+  .customNavigation a.next {
+      right: 10px;
+  }
+  .customNavigation {
+      top: 29%;
+  }
+ 
+  .js-qv-mask.additional_slider .customNavigation{
+    top: 37%;
+  }
+  .blog-item .blog-content-wrap .blog-shortinfo {
+
+  margin-top: 0;
+}
+}
+@media (max-width: 320px){
+  .customNavigation {
+      top: 25%;
+  }
+}

@@ -1,0 +1,32 @@
+Version 1.0.6
+	* Fixed voucher email translation issue.
+	* Fixed Google connect issue.
+	* Fixed: HTML content type was not saving HTML tags.
+	* Added newsletter subscribers language ID.
+	* Added support for Sendinblue module.
+
+Version 1.0.5
+	* Fixed custom hook display.
+	* Added translations for FR, ES, PT, IT, RU
+
+Version 1.0.4
+	* Fixed Google connect issues.
+	* Fixed Twitter connect issues.
+	* Fixed header sign in popup issues.
+	* Added video instructions on how to create Apps for social connect.
+
+Version 1.0.3
+	* Added PrestaShop 1.7.6+ compatibility.
+
+Version 1.0.2
+	* Replaced Google+ with Google Sign-In.
+	* Translation fixes.
+
+Version 1.0.1
+	* Added GDPR compliance.
+	* Fixed error messages translation issue.
+	* Fixed page reload issue for login popup.
+	* Other bug fixes
+
+Version 1.0.0
+	* initial release

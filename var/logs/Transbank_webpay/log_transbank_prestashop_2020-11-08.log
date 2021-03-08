@@ -1,0 +1,23 @@
+[2020-11-08 01:37:52] [INFO ] INFO: initTransaction - amount: 29140, sessionId: 5fa77620cde58, buyOrder: 36388, txDate: 08-11-2020, txTime: 01:37:52
+[2020-11-08 01:37:53] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231128a357497c370efce6b5684dbbcd88fd8037708bd30eeb7a2767e51fd6e","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 01:39:38] [INFO ] INFO: getTransactionResult - tokenWs: 1231128a357497c370efce6b5684dbbcd88fd8037708bd30eeb7a2767e51fd6e
+[2020-11-08 10:43:06] [INFO ] INFO: initTransaction - amount: 102710, sessionId: 5fa7f5eae3bf2, buyOrder: 36394, txDate: 08-11-2020, txTime: 10:43:06
+[2020-11-08 10:43:07] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1131a7408a9d1868c06e14a9bffdb516edfebc8d8341cdcebdded544b009b6ac","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 10:47:35] [INFO ] INFO: initTransaction - amount: 102710, sessionId: 5fa7f6f734d1e, buyOrder: 36394, txDate: 08-11-2020, txTime: 10:47:35
+[2020-11-08 10:47:35] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231f8beebe3dbf672a98eb9324e959f52bd9581ba9f9d4c125dd2a0d83a02c0","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 10:48:15] [INFO ] INFO: initTransaction - amount: 102710, sessionId: 5fa7f71f6289c, buyOrder: 36394, txDate: 08-11-2020, txTime: 10:48:15
+[2020-11-08 10:48:15] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1131c90ae83e6fe2e03deff8b89262a60ec9df23e899980f2b9445451274d205","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 10:48:23] [INFO ] INFO: initTransaction - amount: 102710, sessionId: 5fa7f727c80c7, buyOrder: 36394, txDate: 08-11-2020, txTime: 10:48:23
+[2020-11-08 10:48:24] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11310b21cdddd18fdf71d47137a776b0befb23bfd47bd42f031c442a333e0eae","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 10:49:47] [INFO ] INFO: getTransactionResult - tokenWs: 11310b21cdddd18fdf71d47137a776b0befb23bfd47bd42f031c442a333e0eae
+[2020-11-08 13:35:25] [INFO ] INFO: initTransaction - amount: 38982, sessionId: 5fa81e4df2f27, buyOrder: 36287, txDate: 08-11-2020, txTime: 13:35:25
+[2020-11-08 13:35:26] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"123195dc8592c19eb5973d369d97d865a2e9902a3d993985dbfe0269a9198870","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 13:36:51] [INFO ] INFO: getTransactionResult - tokenWs: 123195dc8592c19eb5973d369d97d865a2e9902a3d993985dbfe0269a9198870
+[2020-11-08 14:38:42] [INFO ] INFO: initTransaction - amount: 43148, sessionId: 5fa82d22c5e60, buyOrder: 36321, txDate: 08-11-2020, txTime: 14:38:42
+[2020-11-08 14:38:43] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11315146528a12553ad35916f29822c9829135125c346afa724099070acb5b60","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 18:06:39] [INFO ] INFO: initTransaction - amount: 35440, sessionId: 5fa85ddf38724, buyOrder: 36289, txDate: 08-11-2020, txTime: 18:06:39
+[2020-11-08 18:06:44] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1131f61c87dfb477f07bd36a91c110e6371582d535ffd44112a066f118116ec0","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 18:09:04] [INFO ] INFO: getTransactionResult - tokenWs: 1131f61c87dfb477f07bd36a91c110e6371582d535ffd44112a066f118116ec0
+[2020-11-08 18:12:15] [INFO ] INFO: initTransaction - amount: 35277, sessionId: 5fa85f2fafab5, buyOrder: 36404, txDate: 08-11-2020, txTime: 18:12:15
+[2020-11-08 18:12:15] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1131d87a4c1ceb0bb14c85c5c3e26c0f77789e7d4d41e32ea03e321ee1527d65","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-08 18:17:11] [INFO ] INFO: getTransactionResult - tokenWs: 1131d87a4c1ceb0bb14c85c5c3e26c0f77789e7d4d41e32ea03e321ee1527d65

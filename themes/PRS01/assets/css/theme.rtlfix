@@ -1,0 +1,114 @@
+.rtl-flip:not(.rtl-no-flip), .material-icons:not(.rtl-no-flip) {
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+.magnitude:before {
+	content: "?";
+	opacity: 0;
+}
+.owl-carousel {
+	direction: ltr !important;
+}
+.owl-wrapper-outer .owl-wrapper .owl-item {
+	float: left;
+}
+.lightbox .lb-outerContainer .lb-container .lb-nav a.lb-prev::before, 
+.lightbox .lb-outerContainer .lb-container .lb-nav a.lb-next::before {
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+.wishlist_default i {
+	transform: none !important;
+}
+ .search-widget #search_query_top.ui-autocomplete-input.ui-autocomplete-loading {
+  background-position: 70px center;
+}
+#products .product-title, .products .product-title,
+.featured-products .product-title,
+.new-products .product-title,
+.best-seller-products .product-title,
+.product-accessories .product-title,
+.ttfeatured-products .product-title,
+.crossselling-product .product-title,
+.ttbestseller-products .product-title,
+.ttnew-products .product-title,
+.ttspecial-products .product-title,
+.category-products .product-title,
+.view-product .product-title {
+  direction: rtl;
+}
+#products .thumbnail-container .ttproduct-image .ttproducthover,
+.products .thumbnail-container .ttproduct-image .ttproducthover, 
+.featured-products .thumbnail-container .ttproduct-image .ttproducthover,
+.ttfeatured-products .thumbnail-container .ttproduct-image .ttproducthover, 
+.product-accessories .thumbnail-container .ttproduct-image .ttproducthover,
+.ttbestseller-products .thumbnail-container .ttproduct-image .ttproducthover,
+.ttnew-products .thumbnail-container .ttproduct-image .ttproducthover,
+.ttspecial-products .thumbnail-container .ttproduct-image .ttproducthover, 
+.crossselling-product .thumbnail-container .ttproduct-image .ttproducthover,
+.category-products .thumbnail-container .ttproduct-image .ttproducthover, 
+.view-product .thumbnail-container .ttproduct-image .ttproducthover {
+  direction: rtl;
+}
+.customNavigation a {
+  float: left;
+}
+.customNavigation a.prev {
+	margin: 0 4px 0 0;
+}
+.customNavigation .btn.next::before {
+  left: auto;
+  right: -61px;
+}
+.customNavigation .btn.next::after {
+  left: auto;
+  right: -41px;
+}
+.customNavigation .btn.prev::before {
+  left: -61px;
+  right: auto;
+}
+.customNavigation .btn.prev::after {
+  left: -41px;
+  right: auto;
+}
+.ttspecial-products .btn.prev.ttspecial_prev::before {
+  transform: scaleX(-1);
+}
+.ttspecial-products .btn.next.ttspecial_next::before {
+  transform: scaleX(-1);
+}
+.ttspecial-products .customNavigation {
+  direction: rtl;
+}
+.brands #ttbrandlogo-carousel .owl-buttons div{
+  transform: scaleX(-1);
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+.brands .customNavigation a.next {
+  transform: scaleX(-1);
+}
+.brands .customNavigation a.prev {
+  transform: scaleX(-1);
+}
+#products .product-grid .thumbnail-container .hook-reviews, .products .product-grid .thumbnail-container .hook-reviews, .featured-products .product-grid .thumbnail-container .hook-reviews, .product-accessories .product-grid .thumbnail-container .hook-reviews, .crossselling-product .product-grid .thumbnail-container .hook-reviews, .ttbestseller-products .product-grid .thumbnail-container .hook-reviews, .ttew-products .product-grid .thumbnail-container .hook-reviews, .ttspecial-products .product-grid .thumbnail-container .hook-reviews, .category-products .product-grid .thumbnail-container .hook-reviews, .view-product .product-grid .thumbnail-container .hook-reviews, .ttfeatured-products .product-grid .thumbnail-container .hook-reviews {
+  direction: rtl;
+}
+#category #left-column #search_filters .facet .title[aria-expanded="true"] .collapse-icons .remove{
+	display: block;
+}
+.product-flags {
+  direction: rtl;
+}
+#content .ttspecial-products .thumbnail-container .ttproducthover {
+  direction: rtl;
+}

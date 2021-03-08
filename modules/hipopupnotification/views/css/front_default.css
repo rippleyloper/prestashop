@@ -1,0 +1,39 @@
+/*Global*/
+.popup-ajax-loader{
+    right: -24px;
+}
+.popup-title{
+    color: #232323;
+}
+.popup_authentication_box input,
+.popup_type_newsletter .popup_newsletter_form input{
+    height: 42px;
+}
+.popup_authentication_box button,
+.popup_type_newsletter .popup_newsletter_form button {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+/*Login and registre*/
+.popup_type_login_and_register .popup_register_block .popup_register_form{
+    border-left: 1px solid #232323;
+}
+
+
+/*Social connect*/
+.social-connect-title{
+    color: #232323;
+}
+.social-connect-title::after, .social-connect-title::before{
+    top: 8px;
+    background: #232323;
+}
+
+/*Responsive*/
+@media all and (max-width: 500px) {
+    .popup_authentication_box button{
+        margin: 35px auto 0px auto;
+    }
+}

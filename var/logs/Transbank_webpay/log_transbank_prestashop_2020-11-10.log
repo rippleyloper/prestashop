@@ -1,0 +1,23 @@
+[2020-11-10 10:48:24] [INFO ] INFO: initTransaction - amount: 31990, sessionId: 5faa9a28c530b, buyOrder: 36449, txDate: 10-11-2020, txTime: 10:48:24
+[2020-11-10 10:48:25] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11317fef65a0ead88a72ecc415028f078fccb03909be91ecae1ec64e7522ce8e","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 10:51:25] [INFO ] INFO: getTransactionResult - tokenWs: 11317fef65a0ead88a72ecc415028f078fccb03909be91ecae1ec64e7522ce8e
+[2020-11-10 14:25:12] [INFO ] INFO: initTransaction - amount: 38970, sessionId: 5faaccf82c9f9, buyOrder: 36457, txDate: 10-11-2020, txTime: 14:25:12
+[2020-11-10 14:25:12] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231de5c9d8eaebe2ce21c1286295b073e9a0c4f95b0d7e37aea6bc2ff8818a0","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 14:25:39] [INFO ] INFO: initTransaction - amount: 38970, sessionId: 5faacd13491a2, buyOrder: 36457, txDate: 10-11-2020, txTime: 14:25:39
+[2020-11-10 14:25:39] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"123125fb3b23c6d9bcf4f0ff4661a2ad2445c5f7d1a558284f2fa0f1e592e320","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 14:27:34] [INFO ] INFO: getTransactionResult - tokenWs: 123125fb3b23c6d9bcf4f0ff4661a2ad2445c5f7d1a558284f2fa0f1e592e320
+[2020-11-10 15:05:30] [INFO ] INFO: initTransaction - amount: 38080, sessionId: 5faad66a8faf8, buyOrder: 36458, txDate: 10-11-2020, txTime: 15:05:30
+[2020-11-10 15:05:30] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"12318c4f463d11fe072680a78e4018359a253d84f883671498044882fcecaaac","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 15:10:50] [INFO ] INFO: initTransaction - amount: 35850, sessionId: 5faad7aa05c80, buyOrder: 36452, txDate: 10-11-2020, txTime: 15:10:50
+[2020-11-10 15:10:50] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"12312d507f751f240878dbf9c3a88a2be38beab8c63cdd20ad926ce64456878d","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 15:12:31] [ERROR] ERROR: Error en el pago - dataPaymentHashOriginal: 5fc59e6cbf991ea0624e9890ad3391d4, paymentHash: b5ffa8504fb31cb2f3f018265db66ade
+[2020-11-10 17:56:05] [INFO ] INFO: initTransaction - amount: 29990, sessionId: 5faafe65498d1, buyOrder: 36468, txDate: 10-11-2020, txTime: 17:56:05
+[2020-11-10 17:56:05] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231c8cb4bfdff769738ca237439ff922400d9c2c4eaf7801da480c2e6dd53e9","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 21:05:17] [INFO ] INFO: initTransaction - amount: 18190, sessionId: 5fab2abd7f6ed, buyOrder: 36473, txDate: 10-11-2020, txTime: 21:05:17
+[2020-11-10 21:05:17] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231dea793978c2f212497f072211b70a114e2de8436ccbfa96cc2abaed2244c","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 21:43:23] [INFO ] INFO: initTransaction - amount: 44290, sessionId: 5fab33abb2e18, buyOrder: 36477, txDate: 10-11-2020, txTime: 21:43:23
+[2020-11-10 21:43:23] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"1231945f84bba0a6c728d40251b347d295e71e2c750cbe739f44084397fc7b2f","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 21:44:54] [INFO ] INFO: getTransactionResult - tokenWs: 1231945f84bba0a6c728d40251b347d295e71e2c750cbe739f44084397fc7b2f
+[2020-11-10 22:03:27] [INFO ] INFO: initTransaction - amount: 86740, sessionId: 5fab385fa3851, buyOrder: 36472, txDate: 10-11-2020, txTime: 22:03:27
+[2020-11-10 22:03:27] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"11312631fb12f5a481b5070563bed78c409d8e913209743eb88ee95d6900bcfa","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}
+[2020-11-10 22:05:41] [INFO ] INFO: getTransactionResult - tokenWs: 11312631fb12f5a481b5070563bed78c409d8e913209743eb88ee95d6900bcfa

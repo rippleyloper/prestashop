@@ -1,0 +1,11 @@
+#ttcategorytabs .categoryimage .category_img{max-width: 100%; }
+#ttcategorytabs .tab-content .tab-pane{
+	padding: 0px;
+    border: none;
+    background: none;
+}
+#ttcategorytabs .tab-content .products{ position: relative;}
+#ttcategorytabs{
+	padding:0;
+	margin:0;
+}
